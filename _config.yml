@@ -8,11 +8,11 @@
 # Site Settings
 title                    : "Fenghe Tang \n (汤丰赫)"
 description              : "Ph.D candidate in USTC, Miracle. Focusing on medical image processing, computer vision and pattern recognition."
-repository               : "RayeRen/acad-homepage.github.io"
+repository               : "FengheTan9/FengheTan9.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      :  "G-JRHTL5MEHB" # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
