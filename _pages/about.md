@@ -34,7 +34,7 @@ redirect_from:
 
 - ``arXiv'23``   [MobileUtr: Revisiting the relationship between light-weight CNN and Transformer for efficient medical image segmentation](https://arxiv.org/abs/2312.01740)
 
-  **Fenghe Tang\***, Bingkun Nian\*, ‪[Jianrui Ding‬‬](https://scholar.google.com/citations?user=4TsvOR8AAAAJ&hl=en), [Quan Quan](https://scholar.google.com/citations?user=mlTXS0YAAAAJ&hl=en), Jie Yang, [‪Wei Liu](https://scholar.google.com/citations?user=Vbb5EGIAAAAJ&hl=en), [‪S. Kevin Zhou‬‬](https://scholar.google.com/citations?user=8eNm2GMAAAAJ&hl=en).*    ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/MobileUtr)
+  **Fenghe Tang\***, Bingkun Nian\*, ‪[Jianrui Ding‬‬](https://scholar.google.com/citations?user=4TsvOR8AAAAJ&hl=en), [Quan Quan](https://scholar.google.com/citations?user=mlTXS0YAAAAJ&hl=en), Jie Yang, [‪Wei Liu](https://scholar.google.com/citations?user=Vbb5EGIAAAAJ&hl=en), [‪S. Kevin Zhou‬‬](https://scholar.google.com/citations?user=8eNm2GMAAAAJ&hl=en).     ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/MobileUtr)
 
 - ``arXiv'23``   [SRSNetwork: Siamese Reconstruction-Segmentation Networks based on Dynamic-Parameter Convolution](https://arxiv.org/abs/2312.01741)
 
@@ -42,7 +42,7 @@ redirect_from:
 
 - ``ISBI'24``     [CMUNeXt: An Efficient Medical Image Segmentation Network based on Large Kernel and Skip Fusion](https://arxiv.org/abs/2308.01239)
 
-  **Fenghe Tang**, [‪Jianrui Ding‬‬](https://scholar.google.com/citations?user=4TsvOR8AAAAJ&hl=en), Lingtao Wang, Chunping Ning,‪  [‪S. Kevin Zhou‬‬](https://scholar.google.com/citations?user=8eNm2GMAAAAJ&hl=en).    ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/CMUNeXt)
+  **Fenghe Tang**, [‪Jianrui Ding‬‬](https://scholar.google.com/citations?user=4TsvOR8AAAAJ&hl=en), [Quan Quan](https://scholar.google.com/citations?user=mlTXS0YAAAAJ&hl=en), Lingtao Wang, Chunping Ning,‪  [‪S. Kevin Zhou‬‬](https://scholar.google.com/citations?user=8eNm2GMAAAAJ&hl=en).    ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/CMUNeXt)
 
 - ``ISBI'23``     [CMU-Net: A Strong ConvMixer-based Medical Ultrasound Image Segmentation Network](https://arxiv.org/abs/2210.13012)
 
@@ -58,7 +58,7 @@ redirect_from:
 
   [Quan Quan](https://scholar.google.com/citations?user=mlTXS0YAAAAJ&hl=en)*, **Fenghe Tang\***, [Zikang Xu](https://xuzikang.github.io/), [Heqin Zhu](https://heqin-zhu.github.io/), [S. Kevin Zhou](https://www.linkedin.com/in/s-kevin-zhou-231a094b).    ![GitHub Repo stars](https://img.shields.io/github/stars/Curli-quan/Slide-SAM)
 
-### Medical Fariness
+### Medical Imaging Fariness
 
 - ``arXiv'24``   [APPLE: Adversarial Privacy-aware Perturbations on Latent Embedding for Unfairness Mitigation](https://arxiv.org/abs/2403.05114)
 
@@ -73,7 +73,7 @@ redirect_from:
 
 - [A Novel Distant Domain Transfer Learning Framework for Thyroid Image Classification](https://link.springer.com/article/10.1007/s11063-022-10940-4)
 
-  **Fenghe Tang**, Lingtao Wang, Chunping Ning, [‪Jianrui Ding‬‬](https://scholar.google.com/citations?user=4TsvOR8AAAAJ&hl=en).    Neural Processing Letters*, 2023
+  **Fenghe Tang**, Lingtao Wang, Chunping Ning, [‪Jianrui Ding‬‬](https://scholar.google.com/citations?user=4TsvOR8AAAAJ&hl=en).    Neural Processing Letters, 2023
 
 - [Ultrasound Image Lesion Detection Algorithm Optimized by Feature Feedback Mechanism](https://arxiv.org/abs/2305.15114)
   
@@ -118,8 +118,3 @@ redirect_from:
 
 - A benchmarks of Medical image segmentation    ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/Medical-Image-Segmentation-Benchmarks)
 - open-source [SPPNet]([research/cv/SPPNet · MindSpore/models - 码云 - 开源中国 (gitee.com)](https://gitee.com/mindspore/models/tree/master/research/cv/SPPNet)) with [MindSpore](https://gitee.com/mindspore)
-
-
-
-
-
