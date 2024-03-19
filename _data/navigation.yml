@@ -15,8 +15,11 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
-
+  - title: "Professional Services"
+    url: "/#-Professional Services"
+    
   - title: "Internships"
-    url: "/#-internships"
+    url: "/#-Internships"
+
+  - title: "Developed contribution"
+    url: "/#-Developed contribution"
