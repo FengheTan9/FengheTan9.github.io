@@ -24,7 +24,7 @@ redirect_from:
 
 # 🔥 News
 
-- *2024.04*: &nbsp;One paper accepted to *MIDL*-24 (<font color="#dd0000">**Oral**</font>).
+- *2024.04*: &nbsp;One paper accepted to *MIDL*-24 (**<font color="#ff0000">Oral</font>**).
 - *2024.02*: &nbsp;One paper accepted to *ISBI*-24.
 - *2023.02*: &nbsp;One paper accepted to *ISBI*-23.
 - *2022.06*: &nbsp;One paper accepted to *NPL*.
@@ -55,7 +55,7 @@ redirect_from:
 
 ### Foundation model
 
-- ``MIDL'24`` (<font color="#dd0000">**Oral**</font>)  [Slide-SAM: Medical SAM Meets Sliding Window](https://arxiv.org/pdf/2311.10121.pdf) 
+- ``MIDL'24`` (**<font color="#ff0000">Oral</font>**)  [Slide-SAM: Medical SAM Meets Sliding Window](https://arxiv.org/pdf/2311.10121.pdf) 
 
   [Quan Quan](https://scholar.google.com/citations?user=mlTXS0YAAAAJ&hl=en)*, **Fenghe Tang\***, [Zikang Xu](https://xuzikang.github.io/), [Heqin Zhu](https://heqin-zhu.github.io/), [S. Kevin Zhou](https://www.linkedin.com/in/s-kevin-zhou-231a094b).    ![GitHub Repo stars](https://img.shields.io/github/stars/Curli-quan/Slide-SAM)
 
