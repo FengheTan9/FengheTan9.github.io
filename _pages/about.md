@@ -8,12 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+
 
 <span class='anchor' id='about-me'></span>
 
@@ -25,7 +20,7 @@ redirect_from:
 # 🔥 News
 
 - *2024.04*: &nbsp;One paper accepted to *MIDL*-24 (**<font color="#ff0000">Oral</font>**).
-- *2024.02*: &nbsp;One paper accepted to *ISBI*-24.
+- *2024.02*: &nbsp;One paper accepted to *ISBI*-24 (**<font color="#ff0000">Oral</font>**).
 - *2023.02*: &nbsp;One paper accepted to *ISBI*-23.
 - *2022.06*: &nbsp;One paper accepted to *NPL*.
 
@@ -41,7 +36,7 @@ redirect_from:
 
   Bingkun Nian\*, **Fenghe Tang\***, [‪Jianrui Ding‬‬](https://scholar.google.com/citations?user=4TsvOR8AAAAJ&hl=en), [‪Pingping Zhang‬](https://scholar.google.com/citations?user=MfbIbuEAAAAJ&hl=en), Jie Yang, [‪S. Kevin Zhou‬‬](https://scholar.google.com/citations?user=8eNm2GMAAAAJ&hl=en), [‪Wei Liu](https://scholar.google.com/citations?user=Vbb5EGIAAAAJ&hl=en).    ![GitHub Repo stars](https://img.shields.io/github/stars/fidshu/SRSNet)
 
-- ``ISBI'24``     [CMUNeXt: An Efficient Medical Image Segmentation Network based on Large Kernel and Skip Fusion](https://arxiv.org/abs/2308.01239)
+- ``ISBI'24``     [CMUNeXt: An Efficient Medical Image Segmentation Network based on Large Kernel and Skip Fusion](https://arxiv.org/abs/2308.01239)  (**<font color="#ff0000">Oral</font>**)
 
   **Fenghe Tang**, [‪Jianrui Ding‬‬](https://scholar.google.com/citations?user=4TsvOR8AAAAJ&hl=en), [Quan Quan](https://scholar.google.com/citations?user=mlTXS0YAAAAJ&hl=en), Lingtao Wang, Chunping Ning,‪  [‪S. Kevin Zhou‬‬](https://scholar.google.com/citations?user=8eNm2GMAAAAJ&hl=en).    ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/CMUNeXt)
 
@@ -55,7 +50,7 @@ redirect_from:
 
 ### Foundation model
 
-- ``MIDL'24`` (**<font color="#ff0000">Oral</font>**)  [Slide-SAM: Medical SAM Meets Sliding Window](https://arxiv.org/pdf/2311.10121.pdf) 
+- ``MIDL'24``  [Slide-SAM: Medical SAM Meets Sliding Window](https://arxiv.org/pdf/2311.10121.pdf)  (**<font color="#ff0000">Oral</font>**)
 
   [Quan Quan](https://scholar.google.com/citations?user=mlTXS0YAAAAJ&hl=en)*, **Fenghe Tang\***, [Zikang Xu](https://xuzikang.github.io/), [Heqin Zhu](https://heqin-zhu.github.io/), [S. Kevin Zhou](https://www.linkedin.com/in/s-kevin-zhou-231a094b).    ![GitHub Repo stars](https://img.shields.io/github/stars/Curli-quan/Slide-SAM)
 
