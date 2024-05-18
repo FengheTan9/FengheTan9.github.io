@@ -19,6 +19,7 @@ redirect_from:
 
 # 🔥 News
 
+- *2024.05*: &nbsp;One paper accepted to *MICCAI*-24 (**<font color="#ff0000">Early Accept  Top 11 %</font>**).
 - *2024.04*: &nbsp;One paper accepted to *MIDL*-24 (**<font color="#ff0000">Oral</font>**).
 - *2024.02*: &nbsp;One paper accepted to *ISBI*-24 (**<font color="#ff0000">Oral</font>**).
 - *2023.02*: &nbsp;One paper accepted to *ISBI*-23.
@@ -26,7 +27,7 @@ redirect_from:
 
 # 📝 Publications 
 
-### Medical image Segmentation
+### Medical Image Segmentation
 
 - ``arXiv'23``   [MobileUtr: Revisiting the relationship between light-weight CNN and Transformer for efficient medical image segmentation](https://arxiv.org/abs/2312.01740)
 
@@ -89,6 +90,7 @@ redirect_from:
   
 
 # 🏅 Honors and Awards
+- **Suzhou Industrial Park Scholarship**, University of Science and Technology of China, 2024
 - **Outstanding Master's Theses**, Harbin Institute of Technology, *2023*
 - **National Scholarship for Postgraduates**, Chinese Ministry of Education, *2023*
 - **Outstanding Graduate Reward**, Harbin Institute of Technology, *2023*
