@@ -14,16 +14,16 @@ redirect_from:
 
 # 😊About Me
 
-- I am a PhD student of University of Science and Technology of China [(USTC)](https://en.ustc.edu.cn/) supervised by Prof. [S. Kevin Zhou](https://www.linkedin.com/in/s-kevin-zhou-231a094b). And I focus on medical image processing, computer vision and pattern recognition. I received the bachelor and master degrees from Harbin Institute of Technology [(HIT)](http://www.hit.edu.cn/) in 2021 and 2023, respectively. My master's tutor is Prof. [Jianrui Ding](https://scholar.google.com/citations?user=4TsvOR8AAAAJ&hl=zh-CN). 
-- Hobby : 🎞️🏀🀄🃏🍔
+- I am a PhD student of the University of Science and Technology of China [(USTC)](https://en.ustc.edu.cn/) supervised by Prof. [S. Kevin Zhou](https://www.linkedin.com/in/s-kevin-zhou-231a094b). And I focus on LVM,  Medical Image Processing, Computer Vision, and Pattern Recognition. I received my bachelor's and master's degrees from Harbin Institute of Technology [(HIT)](http://www.hit.edu.cn/) in 2021 and 2023, respectively. My master's tutor is Prof. [Jianrui Ding](https://scholar.google.com/citations?user=4TsvOR8AAAAJ&hl=zh-CN). 
+- Hobbies: 🎞️🏀🀄🃏🍔
 
 # 🔥 News
 
+- *2024.06*: &nbsp;One paper accepted to *MICCAI*-24.
 - *2024.05*: &nbsp;One paper accepted to *MICCAI*-24 (**<font color="#ff0000">Early Accept  Top 11 %</font>**).
 - *2024.04*: &nbsp;One paper accepted to *MIDL*-24 (**<font color="#ff0000">Oral</font>**).
 - *2024.02*: &nbsp;One paper accepted to *ISBI*-24 (**<font color="#ff0000">Oral</font>**).
 - *2023.02*: &nbsp;One paper accepted to *ISBI*-23.
-- *2022.06*: &nbsp;One paper accepted to *NPL*.
 
 # 📝 Publications 
 
@@ -55,39 +55,36 @@ redirect_from:
 
   [Quan Quan](https://scholar.google.com/citations?user=mlTXS0YAAAAJ&hl=en)*, **Fenghe Tang\***, [Zikang Xu](https://xuzikang.github.io/), [Heqin Zhu](https://heqin-zhu.github.io/), [S. Kevin Zhou](https://www.linkedin.com/in/s-kevin-zhou-231a094b).    ![GitHub Repo stars](https://img.shields.io/github/stars/Curli-quan/Slide-SAM)
 
-### Medical Imaging Fariness
+### Others (Transfer learning, fairness, medical and financial detection, etc)
+
+- ``NPL``   [A Novel Distant Domain Transfer Learning Framework for Thyroid Image Classification](https://link.springer.com/article/10.1007/s11063-022-10940-4)
+
+  **Fenghe Tang**, Lingtao Wang, Chunping Ning, [‪Jianrui Ding‬‬](https://scholar.google.com/citations?user=4TsvOR8AAAAJ&hl=en).    Neural Processing Letters, 2023
 
 - ``arXiv'24``   [APPLE: Adversarial Privacy-aware Perturbations on Latent Embedding for Unfairness Mitigation](https://arxiv.org/abs/2403.05114)
 
   [Zikang Xu](https://xuzikang.github.io/), **Fenghe Tang**, [Quan Quan](https://scholar.google.com/citations?user=mlTXS0YAAAAJ&hl=en), [Qingsong Yao](https://qsyao.github.io/),  [‪S. Kevin Zhou‬‬](https://scholar.google.com/citations?user=8eNm2GMAAAAJ&hl=en).
 
 - ``arXiv'23``   [Inspecting Model Fairness in Ultrasound Segmentation Tasks](https://arxiv.org/abs/2312.02501)
-  
+
   [Zikang Xu](https://xuzikang.github.io/), **Fenghe Tang**, [Quan Quan](https://scholar.google.com/citations?user=mlTXS0YAAAAJ&hl=en), [‪Jianrui Ding‬‬](https://scholar.google.com/citations?user=4TsvOR8AAAAJ&hl=en), Chunping Ning,  [‪S. Kevin Zhou‬‬](https://scholar.google.com/citations?user=8eNm2GMAAAAJ&hl=en).
-  
-
-### Others (Transfer learning, medical and financial detection, etc)
-
-- [A Novel Distant Domain Transfer Learning Framework for Thyroid Image Classification](https://link.springer.com/article/10.1007/s11063-022-10940-4)
-
-  **Fenghe Tang**, Lingtao Wang, Chunping Ning, [‪Jianrui Ding‬‬](https://scholar.google.com/citations?user=4TsvOR8AAAAJ&hl=en).    Neural Processing Letters, 2023
 
 - [Ultrasound Image Lesion Detection Algorithm Optimized by Feature Feedback Mechanism](https://arxiv.org/abs/2305.15114)
-  
+
   Lingtao Wang, [‪Jianrui Ding‬‬](https://scholar.google.com/citations?user=4TsvOR8AAAAJ&hl=en), **Fenghe Tang**, Chunping Ning.     *Journal of Electronics & Information Technology*, 2023
-  
+
 - [Ultrasound Image Super-Resolution with Two-Stage Zero-Shot CycleGAN](https://iopscience.iop.org/article/10.1088/1742-6596/2031/1/012015/meta)
-  
+
   [‪Jianrui Ding‬‬](https://scholar.google.com/citations?user=4TsvOR8AAAAJ&hl=en), Shili Zhao, **Fenghe Tang**, Chunping Ning.    *Journal of Physics: Conference Series*, 2021
-  
+
 - [Study on Financial Fraud Account Detection Based on Imbalanced Datasets](http://www.ecice06.com/EN/10.19678/j.issn.1000-3428.0058006)
-  
+
   Fang Lv, **Fenghe Tang**, Junheng Huang, B Wang.    *Computer Engineering*, 2021
-  
+
 - [Frequent path discovery algorithm for financial network](https://www.infocomm-journal.com/cjnis/CN/10.11959/j.issn.2096-109x.2019050)
-  
+
   Fang Lv, **Fenghe Tang**, Junheng Huang, B Wang.    *Chinese Journal of Network and Information Security*, 2019
-  
+
 
 # 🏅 Honors and Awards
 - **Suzhou Industrial Park Scholarship**, University of Science and Technology of China, 2024
@@ -114,5 +111,5 @@ redirect_from:
 
 # 🙌 Developed contribution
 
-- A benchmarks of Medical image segmentation    ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/Medical-Image-Segmentation-Benchmarks)
+- Benchmarks of Medical image segmentation  ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/Medical-Image-Segmentation-Benchmarks)
 - open-source [SPPNet]([research/cv/SPPNet · MindSpore/models - 码云 - 开源中国 (gitee.com)](https://gitee.com/mindspore/models/tree/master/research/cv/SPPNet)) with [MindSpore](https://gitee.com/mindspore)
