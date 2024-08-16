@@ -27,15 +27,23 @@ redirect_from:
 
 # 📝 Publications 
 
+### Self-supervised learning
+
+- ``MICCAI'24``  [HySparK: Hybrid Sparse Masking for Large Scale Medical Image Pre-Training](https://arxiv.org/pdf/2408.05815.pdf)  (**<font color="#ff0000">Early Accept</font>**)
+
+  **Fenghe Tang**, Ronghao Xu, [Qingsong Yao](https://www.qingsongyao.tech/), Xueming Fu,  [Heqin Zhu](https://heqin-zhu.github.io/), Zaiyi Liu, [S. Kevin Zhou](https://www.linkedin.com/in/s-kevin-zhou-231a094b).    ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/HySparK)
+
+- ``arXiv'24``  [MambaMIM: Pre-training Mamba with State Space Token-interpolation](https://arxiv.org/pdf/2408.08070.pdf) 
+
+  **Fenghe Tang\***, Bingkun Nian, Yingtai Li, Jie Yang, [‪Wei Liu](https://scholar.google.com/citations?user=Vbb5EGIAAAAJ&hl=en), [S. Kevin Zhou](https://www.linkedin.com/in/s-kevin-zhou-231a094b).    ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/MambaMIM)
+
+### Foundation model
+
+- ``MIDL'24``  [Slide-SAM: Medical SAM Meets Sliding Window](https://arxiv.org/pdf/2311.10121.pdf)  (**<font color="#ff0000">Oral</font>**)
+
+  [Quan Quan](https://scholar.google.com/citations?user=mlTXS0YAAAAJ&hl=en)*, **Fenghe Tang\***, [Zikang Xu](https://xuzikang.github.io/), [Heqin Zhu](https://heqin-zhu.github.io/), [S. Kevin Zhou](https://www.linkedin.com/in/s-kevin-zhou-231a094b).    ![GitHub Repo stars](https://img.shields.io/github/stars/Curli-quan/Slide-SAM)
+
 ### Medical Image Segmentation
-
-- ``arXiv'23``   [MobileUtr: Revisiting the relationship between light-weight CNN and Transformer for efficient medical image segmentation](https://arxiv.org/abs/2312.01740)
-
-  **Fenghe Tang\***, Bingkun Nian\*, ‪[Jianrui Ding‬‬](https://scholar.google.com/citations?user=4TsvOR8AAAAJ&hl=en), [Quan Quan](https://scholar.google.com/citations?user=mlTXS0YAAAAJ&hl=en), Jie Yang, [‪Wei Liu](https://scholar.google.com/citations?user=Vbb5EGIAAAAJ&hl=en), [‪S. Kevin Zhou‬‬](https://scholar.google.com/citations?user=8eNm2GMAAAAJ&hl=en).     ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/MobileUtr)
-
-- ``arXiv'23``   [SRSNetwork: Siamese Reconstruction-Segmentation Networks based on Dynamic-Parameter Convolution](https://arxiv.org/abs/2312.01741)
-
-  Bingkun Nian\*, **Fenghe Tang\***, [‪Jianrui Ding‬‬](https://scholar.google.com/citations?user=4TsvOR8AAAAJ&hl=en), [‪Pingping Zhang‬](https://scholar.google.com/citations?user=MfbIbuEAAAAJ&hl=en), Jie Yang, [‪S. Kevin Zhou‬‬](https://scholar.google.com/citations?user=8eNm2GMAAAAJ&hl=en), [‪Wei Liu](https://scholar.google.com/citations?user=Vbb5EGIAAAAJ&hl=en).    ![GitHub Repo stars](https://img.shields.io/github/stars/fidshu/SRSNet)
 
 - ``ISBI'24``     [CMUNeXt: An Efficient Medical Image Segmentation Network based on Large Kernel and Skip Fusion](https://arxiv.org/abs/2308.01239)  (**<font color="#ff0000">Oral</font>**)
 
@@ -45,15 +53,17 @@ redirect_from:
 
   **Fenghe Tang**, Lingtao Wang, Chunping Ning, [Min Xian](https://webpages.uidaho.edu/mxian/), [‪Jianrui Ding‬‬](https://scholar.google.com/citations?user=4TsvOR8AAAAJ&hl=en).    ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/CMU-Net)
 
+- ``arXiv'23``   [MobileUtr: Revisiting the relationship between light-weight CNN and Transformer for efficient medical image segmentation](https://arxiv.org/abs/2312.01740)
+
+  **Fenghe Tang\***, Bingkun Nian\*, ‪[Jianrui Ding‬‬](https://scholar.google.com/citations?user=4TsvOR8AAAAJ&hl=en), [Quan Quan](https://scholar.google.com/citations?user=mlTXS0YAAAAJ&hl=en), Jie Yang, [‪Wei Liu](https://scholar.google.com/citations?user=Vbb5EGIAAAAJ&hl=en), [‪S. Kevin Zhou‬‬](https://scholar.google.com/citations?user=8eNm2GMAAAAJ&hl=en).     ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/MobileUtr)
+
+- ``arXiv'23``   [SRSNetwork: Siamese Reconstruction-Segmentation Networks based on Dynamic-Parameter Convolution](https://arxiv.org/abs/2312.01741)
+
+  Bingkun Nian\*, **Fenghe Tang\***, [‪Jianrui Ding‬‬](https://scholar.google.com/citations?user=4TsvOR8AAAAJ&hl=en), [‪Pingping Zhang‬](https://scholar.google.com/citations?user=MfbIbuEAAAAJ&hl=en), Jie Yang, [‪S. Kevin Zhou‬‬](https://scholar.google.com/citations?user=8eNm2GMAAAAJ&hl=en), [‪Wei Liu](https://scholar.google.com/citations?user=Vbb5EGIAAAAJ&hl=en).    ![GitHub Repo stars](https://img.shields.io/github/stars/fidshu/SRSNet)
+
 - ``arXiv'23``   [Multi-Level Global Context Cross Consistency Model for Semi-Supervised Ultrasound Image Segmentation with Diffusion Model](https://arxiv.org/abs/2305.09447)
 
   **Fenghe Tang**, [‪Jianrui Ding‬‬](https://scholar.google.com/citations?user=4TsvOR8AAAAJ&hl=en), Lingtao Wang, [Min Xian](https://webpages.uidaho.edu/mxian/), Chunping Ning.    ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/Multi-Level-Global-Context-Cross-Consistency)
-
-### Foundation model
-
-- ``MIDL'24``  [Slide-SAM: Medical SAM Meets Sliding Window](https://arxiv.org/pdf/2311.10121.pdf)  (**<font color="#ff0000">Oral</font>**)
-
-  [Quan Quan](https://scholar.google.com/citations?user=mlTXS0YAAAAJ&hl=en)*, **Fenghe Tang\***, [Zikang Xu](https://xuzikang.github.io/), [Heqin Zhu](https://heqin-zhu.github.io/), [S. Kevin Zhou](https://www.linkedin.com/in/s-kevin-zhou-231a094b).    ![GitHub Repo stars](https://img.shields.io/github/stars/Curli-quan/Slide-SAM)
 
 ### Others (Transfer learning, fairness, medical and financial detection, etc)
 
