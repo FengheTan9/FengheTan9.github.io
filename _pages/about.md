@@ -56,7 +56,7 @@ redirect_from:
 
   **Fenghe Tang**, Lingtao Wang, Chunping Ning, Min Xian, Jianrui Ding.   [**[paper]**](https://arxiv.org/abs/2210.13012)  [**[code]**](https://github.com/FengheTan9/CMU-Net)  ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/CMU-Net)
 
-**<font color="#9DC3E6">More publications are available at: [Google Scholar](https://scholar.google.com/citations?user=x1pODsMAAAAJ)</font>**
+**<font color="#9DC3E6">More publications are available at: </font>** [Google Scholar](https://scholar.google.com/citations?user=x1pODsMAAAAJ)
 
 
 # 🏅 Honors and Awards
