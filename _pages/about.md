@@ -32,29 +32,29 @@ redirect_from:
 
 - `arXiv'25` Hi-End-MAE: Hierarchical encoder-driven masked autoencoders are stronger vision learners for medical image segmentation
 
-  Fenghe Tang, Qingsong yao, Wenxin Ma, Chenxu Wu, Zihang Jiang, S. Kevin Zhou.   [**paper**](https://arxiv.org/pdf/2502.08347) | [**code**](https://github.com/FengheTan9/Hi-End-MAE) ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/Hi-End-MAE) 
+  Fenghe Tang, Qingsong yao, Wenxin Ma, Chenxu Wu, Zihang Jiang, S. Kevin Zhou.   [**[paper]**](https://arxiv.org/pdf/2502.08347)  [**[code]**](https://github.com/FengheTan9/Hi-End-MAE) ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/Hi-End-MAE) 
 
 - ``MICCAI'24``  HySparK: Hybrid Sparse Masking for Large Scale Medical Image Pre-Training  (**<font color="#ff0000">Early Accept</font>**)
 
-  **Fenghe Tang**, Ronghao Xu, Qingsong Yao, Xueming Fu, Heqin Zhu, Zaiyi Liu, S. Kevin Zhou.   [**paper**](https://arxiv.org/pdf/2408.05815.pdf) | [**code**](https://github.com/FengheTan9/HySparK) ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/HySparK)
+  **Fenghe Tang**, Ronghao Xu, Qingsong Yao, Xueming Fu, Heqin Zhu, Zaiyi Liu, S. Kevin Zhou.   [**[pape]**](https://arxiv.org/pdf/2408.05815.pdf)  [**[code]**](https://github.com/FengheTan9/HySparK) ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/HySparK)
 
 - ``arXiv'24``  MambaMIM: Pre-training Mamba with State Space Token-interpolation 
 
-  **Fenghe Tang\***, Bingkun Nian\*, Yingtai Li\*, Jie Yang, Wei Liu, S. Kevin Zhou.    [**paper**](https://arxiv.org/pdf/2408.08070.pdf) | [**code**](https://github.com/FengheTan9/MambaMIM) ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/MambaMIM)
+  **Fenghe Tang\***, Bingkun Nian\*, Yingtai Li\*, Jie Yang, Wei Liu, S. Kevin Zhou.    [**[paper]**](https://arxiv.org/pdf/2408.08070.pdf)  [**[code]**](https://github.com/FengheTan9/MambaMIM) ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/MambaMIM)
 
 - ``MIDL'24``  Slide-SAM: Medical SAM Meets Sliding Window  (**<font color="#ff0000">Oral, Best Oral Paper Finalists</font>**)
 
-  Quan Quan*, **Fenghe Tang\***, Zikang Xu, Heqin Zhu, S. Kevin Zhou.   [**paper**](https://arxiv.org/pdf/2311.10121.pdf) | [**code**](https://github.com/Curli-quan/Slide-SAM)   ![GitHub Repo stars](https://img.shields.io/github/stars/Curli-quan/Slide-SAM)
+  Quan Quan*, **Fenghe Tang\***, Zikang Xu, Heqin Zhu, S. Kevin Zhou.   [**[paper]**](https://arxiv.org/pdf/2311.10121.pdf)  [**[code]**](https://github.com/Curli-quan/Slide-SAM)   ![GitHub Repo stars](https://img.shields.io/github/stars/Curli-quan/Slide-SAM)
 
 ### Medical Image Segmentation
 
 - ``ISBI'24``   CMUNeXt: An Efficient Medical Image Segmentation Network based on Large Kernel and Skip Fusion  (**<font color="#ff0000">Oral</font>**)
 
-  **Fenghe Tang**, ‪Jianrui Ding‬‬, Quan Quan, Lingtao Wang, Chunping Ning,‪  ‪S. Kevin Zhou‬‬.    [**paper**](https://arxiv.org/pdf/2308.01239) | [**code**](https://github.com/FengheTan9/CMUNeXt)   ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/CMUNeXt)
+  **Fenghe Tang**, ‪Jianrui Ding‬‬, Quan Quan, Lingtao Wang, Chunping Ning,‪  ‪S. Kevin Zhou‬‬.    [**[paper]**](https://arxiv.org/pdf/2308.01239)  [**[code]**](https://github.com/FengheTan9/CMUNeXt)   ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/CMUNeXt)
 
 - ``ISBI'23``   CMU-Net: A Strong ConvMixer-based Medical Ultrasound Image Segmentation Network
 
-  **Fenghe Tang**, Lingtao Wang, Chunping Ning, Min Xian, Jianrui Ding.   [**paper**](https://arxiv.org/abs/2210.13012) | [**code**](https://github.com/FengheTan9/CMU-Net)  ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/CMU-Net)
+  **Fenghe Tang**, Lingtao Wang, Chunping Ning, Min Xian, Jianrui Ding.   [**[paper]**](https://arxiv.org/abs/2210.13012)  [**[code]**](https://github.com/FengheTan9/CMU-Net)  ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/CMU-Net)
 
 **<font color="#9DC3E6">More publications are available at: [Google Scholar]([‪Fenghe Tang‬ - ‪Google 学术搜索‬](https://scholar.google.com/citations?user=x1pODsMAAAAJ))</font>**
 
