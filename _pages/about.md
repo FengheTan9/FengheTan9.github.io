@@ -87,4 +87,4 @@ redirect_from:
 # 🙌 Developed contribution
 
 - Benchmarks of Medical Image Segmentation [**[code]**](https://github.com/FengheTan9/Medical-Image-Segmentation-Benchmarks)  ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/Medical-Image-Segmentation-Benchmarks)
-- open-source [SPPNet]([research/cv/SPPNet · MindSpore/models - 码云 - 开源中国 (gitee.com)](https://gitee.com/mindspore/models/tree/master/research/cv/SPPNet)) with [MindSpore](https://gitee.com/mindspore)  [**[code]**](https://gitee.com/mindspore/models/tree/master/research/cv/SPPNet)
+- open-source [SPPNet](https://gitee.com/mindspore/models/tree/master/research/cv/SPPNet) with [MindSpore](https://gitee.com/mindspore)  [**[code]**](https://gitee.com/mindspore/models/tree/master/research/cv/SPPNet)
