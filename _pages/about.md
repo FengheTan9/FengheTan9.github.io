@@ -17,12 +17,14 @@ redirect_from:
 
 # 😊About Me
 
-- I am a PhD student of the University of Science and Technology of China [(USTC)](https://en.ustc.edu.cn/) supervised by Prof. [S. Kevin Zhou](https://www.linkedin.com/in/s-kevin-zhou-231a094b). And I focus on Self-supervised Learning,  LVM,  Medical Image Analysis, Computer Vision, and Pattern Recognition. I received my bachelor's and master's degrees from Harbin Institute of Technology [(HIT)](http://www.hit.edu.cn/) in 2021 and 2023, respectively. My master's tutor is Prof. [Jianrui Ding](https://scholar.google.com/citations?user=4TsvOR8AAAAJ&hl=zh-CN).  I have published 20+ papers at the conferences and journals with citations <a href='https://scholar.google.com/citations?user=x1pODsMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+- I am a PhD student at the University of Science and Technology of China [(USTC)](https://en.ustc.edu.cn/) supervised by Prof. [S. Kevin Zhou](https://www.linkedin.com/in/s-kevin-zhou-231a094b). I focus on Self-supervised Learning, LVM, Medical Image Analysis, Computer Vision, and Pattern Recognition. I received my bachelor's and master's degrees from Harbin Institute of Technology [(HIT)](http://www.hit.edu.cn/) in 2021 and 2023, respectively. My master's tutor is Prof. [Jianrui Ding](https://scholar.google.com/citations?user=4TsvOR8AAAAJ&hl=zh-CN).  I have published 20+ papers at conferences and journals with citations [![citations](https://img.shields.io/badge/citations-200+-blue)](https://scholar.google.com/citations?user=x1pODsMAAAAJ)
 - Hobbies: 🎞️🏀🀄🃏🍔
 
 # 🔥 News
 
-- *2025.04*: &nbsp;One paper accepted to *Medical Image Analysis.*
+- *2025.04*: &nbsp;One paper accepted to *npj Digital Medicine*.
+- *2025.04*: &nbsp;One paper accepted to *Nature Communications*.
+- *2025.04*: &nbsp;One paper accepted to *Medical Image Analysis*.
 - *2025.03*: &nbsp;One paper accepted to *MIDL*-25.
 - *2025.03*: &nbsp;One paper accepted to *CVPR*-25.
 - *2024.06*: &nbsp;One paper accepted to *MICCAI*-24.
@@ -34,7 +36,7 @@ redirect_from:
 
 ### Self-supervised learning & Foundation model
 
-- ``MIA'25``  MambaMIM: Pre-training Mamba with State Space Token-interpolation (Medical Image Analysis)
+- ``MIA'25``  MambaMIM: Pre-training Mamba with State Space Token-interpolation
 
   **Fenghe Tang\***, Bingkun Nian\*, Yingtai Li\*, Jie Yang, Wei Liu, S. Kevin Zhou.    [**[paper]**](https://arxiv.org/pdf/2408.08070.pdf)  [**[code]**](https://github.com/FengheTan9/MambaMIM) ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/MambaMIM)
 
