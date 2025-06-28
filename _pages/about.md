@@ -70,7 +70,8 @@ redirect_from:
   **Fenghe Tang**, Lingtao Wang, Chunping Ning, Min Xian, Jianrui Ding.   [**[paper]**](https://arxiv.org/abs/2210.13012)  [**[code]**](https://github.com/FengheTan9/CMU-Net)  ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/CMU-Net)
   
 - ``npj Digit. Med.'25``   Fair ultrasound diagnosis via adversarial protected attribute aware perturbations on latent embeddings
-Zikang Xu, **Fenghe Tang**, Quan Quan, Qingsong Yao, Qingpeng Kong, Jianrui Ding, Chunping Ning, S. Kevin Zhou.  [**[paper]**](https://www.nature.com/articles/s41746-025-01641-y)  [**[code]**](https://github.com/XuZikang/APPLE) ![img](https://camo.githubusercontent.com/debfb1bad4f3efe9dcb8c5946ce7eeadfe222c8d3cf3591a92c115d9761a3444/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f58755a696b616e672f4150504c452e7376673f6c6162656c3d5374617273267374796c653d736f6369616c)
+
+  Zikang Xu, **Fenghe Tang**, Quan Quan, Qingsong Yao, Qingpeng Kong, Jianrui Ding, Chunping Ning, S. Kevin Zhou.  [**[paper]**](https://www.nature.com/articles/s41746-025-01641-y)  [**[code]**](https://github.com/XuZikang/APPLE) ![img](https://camo.githubusercontent.com/debfb1bad4f3efe9dcb8c5946ce7eeadfe222c8d3cf3591a92c115d9761a3444/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f58755a696b616e672f4150504c452e7376673f6c6162656c3d5374617273267374796c653d736f6369616c)
 
 **<font color="#9DC3E6">More publications are available at: </font>** [Google Scholar](https://scholar.google.com/citations?user=x1pODsMAAAAJ) 
 
