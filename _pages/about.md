@@ -22,6 +22,9 @@ redirect_from:
 
 # 🔥 News
 
+**Find collaborators on Foundation Model & Segmentation 🤗, feel free to contact me at fhtan9@mail.ustc.edu.cn** 😎
+
+- *2025.06*: &nbsp;Three paper accepted to *MICCAI*-25.
 - *2025.04*: &nbsp;One paper accepted to *npj Digital Medicine*.
 - *2025.04*: &nbsp;One paper accepted to *Nature Communications*.
 - *2025.04*: &nbsp;One paper accepted to *Medical Image Analysis*.
@@ -36,7 +39,7 @@ redirect_from:
 
 ### Self-supervised learning & Foundation model
 
-- ``MIA'25``  MambaMIM: Pre-training Mamba with State Space Token-interpolation
+- ``MedIA'25``  MambaMIM: Pre-training Mamba with State Space Token-interpolation and its Application to Medical Image Segmentation
 
   **Fenghe Tang\***, Bingkun Nian\*, Yingtai Li\*, Jie Yang, Wei Liu, S. Kevin Zhou.    [**[paper]**](https://arxiv.org/pdf/2408.08070.pdf)  [**[code]**](https://github.com/FengheTan9/MambaMIM) ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/MambaMIM)
 
@@ -54,6 +57,10 @@ redirect_from:
 
 ### Medical Image Segmentation
 
+- ``MICCAI'25``   Pre-Trained LLM is a Semantic-Aware and Generalizable Segmentation Booster
+
+  **Fenghe Tang***, Wenxin Ma*, Zhiyang He, Xiaodong Tao, Zihang Jiang, S. Kevin Zhou.    [**[paper]**](https://arxiv.org/pdf/2506.18034.pdf)  [**[code]**](https://github.com/FengheTan9/LLM4Seg)   ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/LLM4Seg)
+
 - ``ISBI'24``   CMUNeXt: An Efficient Medical Image Segmentation Network based on Large Kernel and Skip Fusion  (**<font color="#ff0000">Oral</font>**)
 
   **Fenghe Tang**, ‪Jianrui Ding‬‬, Quan Quan, Lingtao Wang, Chunping Ning,‪ S. Kevin Zhou‬‬.    [**[paper]**](https://arxiv.org/pdf/2308.01239)  [**[code]**](https://github.com/FengheTan9/CMUNeXt)   ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/CMUNeXt)
@@ -61,6 +68,9 @@ redirect_from:
 - ``ISBI'23``   CMU-Net: A Strong ConvMixer-based Medical Ultrasound Image Segmentation Network
 
   **Fenghe Tang**, Lingtao Wang, Chunping Ning, Min Xian, Jianrui Ding.   [**[paper]**](https://arxiv.org/abs/2210.13012)  [**[code]**](https://github.com/FengheTan9/CMU-Net)  ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/CMU-Net)
+  
+- ``npj Digit. Med.'25``   Fair ultrasound diagnosis via adversarial protected attribute aware perturbations on latent embeddings
+Zikang Xu, **Fenghe Tang**, Quan Quan, Qingsong Yao, Qingpeng Kong, Jianrui Ding, Chunping Ning, S. Kevin Zhou.  [**[paper]**](https://www.nature.com/articles/s41746-025-01641-y)  [**[code]**](https://github.com/XuZikang/APPLE) ![img](https://camo.githubusercontent.com/debfb1bad4f3efe9dcb8c5946ce7eeadfe222c8d3cf3591a92c115d9761a3444/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f58755a696b616e672f4150504c452e7376673f6c6162656c3d5374617273267374796c653d736f6369616c)
 
 **<font color="#9DC3E6">More publications are available at: </font>** [Google Scholar](https://scholar.google.com/citations?user=x1pODsMAAAAJ) 
 
@@ -84,7 +94,12 @@ redirect_from:
 *Conference Reviewers:*
 
 - The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025
+- ACM International Conference on Multimedia (ACM MM), 2025
 - International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2024-2025
+
+*Teaching Assistant:*
+
+- 2024 Fall, USTC, Medical Image Computing (*BMED6208P.01_152261*)
 
 # 💻 Internships
 - *2021.04 - 2022.04*, HUAWEI, Ascend,  [Mindspore developer](https://github.com/mindspore-ai/mindspore).
@@ -93,3 +108,9 @@ redirect_from:
 
 - Benchmarks of Medical Image Segmentation [**[code]**](https://github.com/FengheTan9/Medical-Image-Segmentation-Benchmarks)  ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/Medical-Image-Segmentation-Benchmarks)
 - open-source [SPPNet](https://gitee.com/mindspore/models/tree/master/research/cv/SPPNet) with [MindSpore](https://gitee.com/mindspore)  [**[code]**](https://gitee.com/mindspore/models/tree/master/research/cv/SPPNet)
+
+</br>
+
+
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=jaOYIPr0TvknXrE-gi6cz5uHkp6qI9mtwrj_B6wtt10&cl=ffffff&w=a"></script>
