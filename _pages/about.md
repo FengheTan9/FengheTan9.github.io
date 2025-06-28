@@ -22,7 +22,7 @@ redirect_from:
 
 # 🔥 News
 
-**Find collaborators on Foundation Model & Segmentation 🤗, feel free to contact me at fhtan9@mail.ustc.edu.cn** 😎
+**Find collaborators on Foundation Model & Segmentation 🤗, feel free to contact me at fhtan9@mail.ustc.edu.cn** 😎🥰
 
 - *2025.06*: &nbsp;Three paper accepted to *MICCAI*-25.
 - *2025.04*: &nbsp;One paper accepted to *npj Digital Medicine*.
