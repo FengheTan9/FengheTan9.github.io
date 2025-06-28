@@ -112,8 +112,9 @@ redirect_from:
 
 
 
-<div style="max-width:300px; width:100%; margin: 0 auto; text-align: center;">
+<div style="max-width:300px; width:100%; margin: 0 auto; text-align: left;">
   <script type="text/javascript" id="clustrmaps" 
     src="//clustrmaps.com/map_v2.js?d=jaOYIPr0TvknXrE-gi6cz5uHkp6qI9mtwrj_B6wtt10&cl=ffffff&w=a">
   </script>
 </div>
+
