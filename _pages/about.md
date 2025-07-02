@@ -17,12 +17,12 @@ redirect_from:
 
 # 😊About Me
 
-- I am a PhD student at the University of Science and Technology of China [(USTC)](https://en.ustc.edu.cn/) supervised by Prof. [S. Kevin Zhou](https://www.linkedin.com/in/s-kevin-zhou-231a094b). I focus on Self-supervised Learning, LVM, Medical Image Analysis, Computer Vision, and Pattern Recognition. I received my bachelor's and master's degrees from Harbin Institute of Technology [(HIT)](http://www.hit.edu.cn/) in 2021 and 2023, respectively. My master's tutor is Prof. [Jianrui Ding](https://scholar.google.com/citations?user=4TsvOR8AAAAJ&hl=zh-CN).  I have published 20+ papers at conferences and journals with citations [![citations](https://img.shields.io/badge/citations-200+-blue)](https://scholar.google.com/citations?user=x1pODsMAAAAJ)
+- I am a PhD student at the University of Science and Technology of China [(USTC)](https://en.ustc.edu.cn/) supervised by Prof. [S. Kevin Zhou](https://www.linkedin.com/in/s-kevin-zhou-231a094b). I focus on *self-supervised learning*, *foundation model*, *medical image analysis*, *computer vision and pattern recognition*. I received my bachelor's and master's degrees from Harbin Institute of Technology [(HIT)](http://www.hit.edu.cn/) in 2021 and 2023, respectively. My master's tutor is Prof. [Jianrui Ding](https://scholar.google.com/citations?user=4TsvOR8AAAAJ&hl=zh-CN).  I have published 20+ papers at top conferences and journals with citations [![citations](https://img.shields.io/badge/citations-200+-blue)](https://scholar.google.com/citations?user=x1pODsMAAAAJ)
 - Hobbies: 🎞️🏀🀄🃏🍔
 
 # 🔥 News
 
-**Find collaborators on Foundation Model & Segmentation 🤗, feel free to contact me at fhtan9@mail.ustc.edu.cn** 😎🥰
+**<font color="#9DC3E6">Find collaborators on foundation model & medical image segmentation, feel free to contact me at fhtan9@mail.ustc.edu.cn</font>** 😎🥰🤗🤗🤗
 
 - *2025.06*: &nbsp;Three paper accepted to *MICCAI*-25.
 - *2025.04*: &nbsp;One paper accepted to *npj Digital Medicine*.
@@ -37,7 +37,7 @@ redirect_from:
 
 # 📝 Selected publications
 
-### Self-supervised learning & Foundation model
+### Self-supervised learning & Foundation model 💪
 
 - ``MedIA'25``  MambaMIM: Pre-training Mamba with State Space Token-interpolation and its Application to Medical Image Segmentation
 
@@ -55,7 +55,7 @@ redirect_from:
 
   Quan Quan*, **Fenghe Tang\***, Zikang Xu, Heqin Zhu, S. Kevin Zhou.   [**[paper]**](https://arxiv.org/pdf/2311.10121.pdf)  [**[code]**](https://github.com/Curli-quan/Slide-SAM)   ![GitHub Repo stars](https://img.shields.io/github/stars/Curli-quan/Slide-SAM)
 
-### Medical Image Segmentation
+### Medical Image Segmentation 🫀🫁🧠
 
 - ``MICCAI'25``   Pre-Trained LLM is a Semantic-Aware and Generalizable Segmentation Booster
 
@@ -67,11 +67,17 @@ redirect_from:
 
 - ``ISBI'23``   CMU-Net: A Strong ConvMixer-based Medical Ultrasound Image Segmentation Network
 
-  **Fenghe Tang**, Lingtao Wang, Chunping Ning, Min Xian, Jianrui Ding.   [**[paper]**](https://arxiv.org/abs/2210.13012)  [**[code]**](https://github.com/FengheTan9/CMU-Net)  ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/CMU-Net)
+  **Fenghe Tang**, Lingtao Wang, Chunping Ning, Min Xian, Jianrui Ding.    [**[paper]**](https://arxiv.org/abs/2210.13012)  [**[code]**](https://github.com/FengheTan9/CMU-Net)  ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/CMU-Net)
   
 - ``npj Digit. Med.'25``   Fair ultrasound diagnosis via adversarial protected attribute aware perturbations on latent embeddings
 
   Zikang Xu, **Fenghe Tang**, Quan Quan, Qingsong Yao, Qingpeng Kong, Jianrui Ding, Chunping Ning, S. Kevin Zhou.  [**[paper]**](https://www.nature.com/articles/s41746-025-01641-y)  [**[code]**](https://github.com/XuZikang/APPLE) ![img](https://camo.githubusercontent.com/debfb1bad4f3efe9dcb8c5946ce7eeadfe222c8d3cf3591a92c115d9761a3444/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f58755a696b616e672f4150504c452e7376673f6c6162656c3d5374617273267374796c653d736f6369616c)
+
+### AI4S 🧐
+
+- ``Nat. Comm.'25``  Deep generalizable prediction of RNA secondary structure via base pair motif energy
+
+  Heqin Zhu, **Fenghe Tang**, Quan Quan, Ke Chen, Peng Xiong, S. Kevin Zhou. [**[paper]**](https://www.nature.com/articles/s41467-025-60048-1)  [**[code]**](https://github.com/heqin-zhu/BPfold) ![GitHub Repo stars](https://img.shields.io/github/stars/heqin-zhu/BPfold)
 
 **<font color="#9DC3E6">More publications are available at: </font>** [Google Scholar](https://scholar.google.com/citations?user=x1pODsMAAAAJ) 
 
@@ -112,7 +118,7 @@ redirect_from:
 
 
 
-<div style="max-width:300px; width:100%; margin: 0 auto; text-align: left;">
+<div style="max-width:300px; width:100%; margin-left: 0; text-align: left;">
   <script type="text/javascript" id="clustrmaps" 
     src="//clustrmaps.com/map_v2.js?d=jaOYIPr0TvknXrE-gi6cz5uHkp6qI9mtwrj_B6wtt10&cl=ffffff&w=a">
   </script>
