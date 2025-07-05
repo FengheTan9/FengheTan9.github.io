@@ -24,7 +24,8 @@ redirect_from:
 
 **<font color="#9DC3E6">Find collaborators on foundation model & medical image segmentation, feel free to contact me at fhtan9@mail.ustc.edu.cn</font>** 😎🥰🤗🤗🤗
 
-- *2025.06*: &nbsp;Three paper accepted to *MICCAI*-25.
+- *2025.07*: &nbsp;One paper accepted to *ACM MM*-25.
+- *2025.06*: &nbsp;Three papers accepted to *MICCAI*-25.
 - *2025.04*: &nbsp;One paper accepted to *npj Digital Medicine*.
 - *2025.04*: &nbsp;One paper accepted to *Nature Communications*.
 - *2025.04*: &nbsp;One paper accepted to *Medical Image Analysis*.
@@ -56,6 +57,10 @@ redirect_from:
   Quan Quan*, **Fenghe Tang\***, Zikang Xu, Heqin Zhu, S. Kevin Zhou.   [**[paper]**](https://arxiv.org/pdf/2311.10121.pdf)  [**[code]**](https://github.com/Curli-quan/Slide-SAM)   ![GitHub Repo stars](https://img.shields.io/github/stars/Curli-quan/Slide-SAM)
 
 ### Medical Image Segmentation 🫀🫁🧠
+
+- ``ACM MM'25``   Mobile U-ViT: Revisiting large kernel and U-shaped ViT for efficient medical image segmentation
+
+  **Fenghe Tang***, Bingkun Nian*,  Jianrui Ding, Wenxin Ma, Quan Quan, Chengqi Dong, Jie Yang, Wei Liu, S. Kevin Zhou.
 
 - ``MICCAI'25``   Pre-Trained LLM is a Semantic-Aware and Generalizable Segmentation Booster
 
@@ -123,4 +128,3 @@ redirect_from:
     src="//clustrmaps.com/map_v2.js?d=jaOYIPr0TvknXrE-gi6cz5uHkp6qI9mtwrj_B6wtt10&cl=ffffff&w=a">
   </script>
 </div>
-
