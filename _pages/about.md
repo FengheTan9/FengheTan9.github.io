@@ -19,11 +19,11 @@ redirect_from:
 
 - I am a PhD student at the University of Science and Technology of China [(USTC)](https://en.ustc.edu.cn/) supervised by Prof. [S. Kevin Zhou](https://www.linkedin.com/in/s-kevin-zhou-231a094b). I focus on *self-supervised learning*, *foundation model*, *medical image analysis*, *computer vision and pattern recognition*. I received my bachelor's and master's degrees from Harbin Institute of Technology [(HIT)](http://www.hit.edu.cn/) in 2021 and 2023, respectively. My master's tutor is Prof. [Jianrui Ding](https://scholar.google.com/citations?user=4TsvOR8AAAAJ&hl=zh-CN).  I have published 20+ papers at top conferences and journals with citations [![citations](https://img.shields.io/badge/citations-200+-blue)](https://scholar.google.com/citations?user=x1pODsMAAAAJ)
 - Hobbies: 🎞️🏀🀄🃏🍔
+- **<font color="#9DC3E6">Find collaborators on foundation model & medical image segmentation, feel free to contact me at fhtan9@mail.ustc.edu.cn</font>** 😎🥰🤗
 
 # 🔥 News
 
-**<font color="#9DC3E6">Find collaborators on foundation model & medical image segmentation, feel free to contact me at fhtan9@mail.ustc.edu.cn</font>** 😎🥰🤗🤗🤗
-
+- *2025.07*: &nbsp;One paper accepted to *ECAI*-25.
 - *2025.07*: &nbsp;One paper accepted to *ACM MM*-25.
 - *2025.06*: &nbsp;Three papers accepted to *MICCAI*-25.
 - *2025.04*: &nbsp;One paper accepted to *npj Digital Medicine*.
@@ -40,47 +40,47 @@ redirect_from:
 
 ### Self-supervised learning & Foundation model 💪
 
-- ![citations](https://img.shields.io/badge/Medical Image Analysis-2025-red)  MambaMIM: Pre-training Mamba with State Space Token-interpolation and its Application to Medical Image Segmentation
+- ![citations](https://img.shields.io/badge/Medical Image Analysis-2025-black)  MambaMIM: Pre-training Mamba with State Space Token-interpolation and its Application to Medical Image Segmentation
 
   **Fenghe Tang\***, Bingkun Nian\*, Yingtai Li\*, Jie Yang, Wei Liu, S. Kevin Zhou.    [**[paper]**](https://arxiv.org/pdf/2408.08070.pdf)  [**[code]**](https://github.com/FengheTan9/MambaMIM) ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/MambaMIM)
 
-- ![citations](https://img.shields.io/badge/Arxiv-2025-red) Hi-End-MAE: Hierarchical encoder-driven masked autoencoders are stronger vision learners for medical image segmentation
+- ![citations](https://img.shields.io/badge/Arxiv-2025-black) Hi-End-MAE: Hierarchical encoder-driven masked autoencoders are stronger vision learners for medical image segmentation
 
   **Fenghe Tang**, Qingsong yao, Wenxin Ma, Chenxu Wu, Zihang Jiang, S. Kevin Zhou.   [**[paper]**](https://arxiv.org/pdf/2502.08347)  [**[code]**](https://github.com/FengheTan9/Hi-End-MAE) ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/Hi-End-MAE) 
 
-- ![citations](https://img.shields.io/badge/MICCAI-2024-red)  HySparK: Hybrid Sparse Masking for Large Scale Medical Image Pre-Training  (**<font color="#ff0000">Early Accept</font>**)
+- ![citations](https://img.shields.io/badge/MICCAI-2024-black)  HySparK: Hybrid Sparse Masking for Large Scale Medical Image Pre-Training  (**<font color="#ff0000">Early Accept</font>**)
 
   **Fenghe Tang**, Ronghao Xu, Qingsong Yao, Xueming Fu, Heqin Zhu, Zaiyi Liu, S. Kevin Zhou.   [**[pape]**](https://arxiv.org/pdf/2408.05815.pdf)  [**[code]**](https://github.com/FengheTan9/HySparK) ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/HySparK)
 
-- ![citations](https://img.shields.io/badge/MIDL-2024-red)  Slide-SAM: Medical SAM Meets Sliding Window  (**<font color="#ff0000">Oral, Best Oral Paper Finalists</font>**)
+- ![citations](https://img.shields.io/badge/MIDL-2024-black)  Slide-SAM: Medical SAM Meets Sliding Window  (**<font color="#ff0000">Oral, Best Oral Paper Finalists</font>**)
 
   Quan Quan*, **Fenghe Tang\***, Zikang Xu, Heqin Zhu, S. Kevin Zhou.   [**[paper]**](https://arxiv.org/pdf/2311.10121.pdf)  [**[code]**](https://github.com/Curli-quan/Slide-SAM)   ![GitHub Repo stars](https://img.shields.io/github/stars/Curli-quan/Slide-SAM)
 
 ### Medical Image Segmentation 🫀🫁🧠
 
-- ![citations](https://img.shields.io/badge/ACM MM-2025-red)   Mobile U-ViT: Revisiting large kernel and U-shaped ViT for efficient medical image segmentation
+- ![citations](https://img.shields.io/badge/ACM MM-2025-black)   Mobile U-ViT: Revisiting large kernel and U-shaped ViT for efficient medical image segmentation
 
-  **Fenghe Tang***, Bingkun Nian*,  Jianrui Ding, Wenxin Ma, Quan Quan, Chengqi Dong, Jie Yang, Wei Liu, S. Kevin Zhou.
+  **Fenghe Tang\***, Bingkun Nian\*,  Jianrui Ding, Wenxin Ma, Quan Quan, Chengqi Dong, Jie Yang, Wei Liu, S. Kevin Zhou.
 
-- ![citations](https://img.shields.io/badge/MICCAI-2025-red)   Pre-Trained LLM is a Semantic-Aware and Generalizable Segmentation Booster
+- ![citations](https://img.shields.io/badge/MICCAI-2025-black)   Pre-Trained LLM is a Semantic-Aware and Generalizable Segmentation Booster
 
-  **Fenghe Tang***, Wenxin Ma*, Zhiyang He, Xiaodong Tao, Zihang Jiang, S. Kevin Zhou.    [**[paper]**](https://arxiv.org/pdf/2506.18034.pdf)  [**[code]**](https://github.com/FengheTan9/LLM4Seg)   ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/LLM4Seg)
+  **Fenghe Tang\***, Wenxin Ma\*, Zhiyang He, Xiaodong Tao, Zihang Jiang, S. Kevin Zhou.    [**[paper]**](https://arxiv.org/pdf/2506.18034.pdf)  [**[code]**](https://github.com/FengheTan9/LLM4Seg)   ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/LLM4Seg)
 
-- ![citations](https://img.shields.io/badge/ISBI-2024-red)   CMUNeXt: An Efficient Medical Image Segmentation Network based on Large Kernel and Skip Fusion  (**<font color="#ff0000">Oral</font>**)
+- ![citations](https://img.shields.io/badge/ISBI-2024-black)   CMUNeXt: An Efficient Medical Image Segmentation Network based on Large Kernel and Skip Fusion  (**<font color="#ff0000">Oral</font>**)
 
   **Fenghe Tang**, ‪Jianrui Ding‬‬, Quan Quan, Lingtao Wang, Chunping Ning,‪ S. Kevin Zhou‬‬.    [**[paper]**](https://arxiv.org/pdf/2308.01239)  [**[code]**](https://github.com/FengheTan9/CMUNeXt)   ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/CMUNeXt)
 
-- ![citations](https://img.shields.io/badge/ISBI-2023-red)   CMU-Net: A Strong ConvMixer-based Medical Ultrasound Image Segmentation Network
+- ![citations](https://img.shields.io/badge/ISBI-2023-black)   CMU-Net: A Strong ConvMixer-based Medical Ultrasound Image Segmentation Network
 
   **Fenghe Tang**, Lingtao Wang, Chunping Ning, Min Xian, Jianrui Ding.    [**[paper]**](https://arxiv.org/abs/2210.13012)  [**[code]**](https://github.com/FengheTan9/CMU-Net)  ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/CMU-Net)
   
-- ![citations](https://img.shields.io/badge/npj Digital Medicine-2025-red)   Fair ultrasound diagnosis via adversarial protected attribute aware perturbations on latent embeddings
+- ![citations](https://img.shields.io/badge/npj Digital Medicine-2025-black)   Fair ultrasound diagnosis via adversarial protected attribute aware perturbations on latent embeddings
 
   Zikang Xu, **Fenghe Tang**, Quan Quan, Qingsong Yao, Qingpeng Kong, Jianrui Ding, Chunping Ning, S. Kevin Zhou.  [**[paper]**](https://www.nature.com/articles/s41746-025-01641-y)  [**[code]**](https://github.com/XuZikang/APPLE) ![img](https://camo.githubusercontent.com/debfb1bad4f3efe9dcb8c5946ce7eeadfe222c8d3cf3591a92c115d9761a3444/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f58755a696b616e672f4150504c452e7376673f6c6162656c3d5374617273267374796c653d736f6369616c)
 
 ### AI4S 🧐
 
-- ![citations](https://img.shields.io/badge/Nature Communications-2025-red)  Deep generalizable prediction of RNA secondary structure via base pair motif energy
+- ![citations](https://img.shields.io/badge/Nature Communications-2025-black)  Deep generalizable prediction of RNA secondary structure via base pair motif energy
 
   Heqin Zhu, **Fenghe Tang**, Quan Quan, Ke Chen, Peng Xiong, S. Kevin Zhou. [**[paper]**](https://www.nature.com/articles/s41467-025-60048-1)  [**[code]**](https://github.com/heqin-zhu/BPfold) ![GitHub Repo stars](https://img.shields.io/github/stars/heqin-zhu/BPfold)
 
