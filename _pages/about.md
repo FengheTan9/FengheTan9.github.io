@@ -17,9 +17,9 @@ redirect_from:
 
 # 😊About Me
 
-- I am a PhD student at the University of Science and Technology of China [(USTC)](https://en.ustc.edu.cn/) supervised by Prof. [S. Kevin Zhou](https://www.linkedin.com/in/s-kevin-zhou-231a094b). I focus on *self-supervised learning*, *foundation model*, *medical image analysis*, *computer vision and pattern recognition*. I received my bachelor's and master's degrees from Harbin Institute of Technology [(HIT)](http://www.hit.edu.cn/) in 2021 and 2023, respectively. My master's tutor is Prof. [Jianrui Ding](https://scholar.google.com/citations?user=4TsvOR8AAAAJ&hl=zh-CN).  I have published 20+ papers at top conferences and journals with citations [![citations](https://img.shields.io/badge/citations-200+-blue)](https://scholar.google.com/citations?user=x1pODsMAAAAJ)
+- I am a PhD student at the University of Science and Technology of China [(USTC)](https://en.ustc.edu.cn/) supervised by Prof. [S. Kevin Zhou](https://www.linkedin.com/in/s-kevin-zhou-231a094b). I focus on *self-supervised learning*, *foundation model*, *medical image analysis*, *computer vision and pattern recognition*. I received my bachelor's and master's degrees from Harbin Institute of Technology [(HIT)](http://www.hit.edu.cn/) in 2021 and 2023, respectively. My master's tutor is Prof. [Jianrui Ding](https://scholar.google.com/citations?user=4TsvOR8AAAAJ&hl=zh-CN).  I have published 20+ papers at Top Conferences and Journals with [![citations](https://img.shields.io/badge/citations-300+-blue)](https://scholar.google.com/citations?user=x1pODsMAAAAJ)
 - Hobbies: 🎞️🏀🀄🃏🍔
-- **<font color="#9DC3E6">Find collaborators on foundation model & medical image segmentation, feel free to contact me at fhtan9@mail.ustc.edu.cn</font>** 😎🥰🤗
+- **<font color="#9DC3E6">Find collaborators, feel free to contact me at fhtan9@mail.ustc.edu.cn</font>** 😎🥰🤗
 
 # 🔥 News
 
@@ -46,7 +46,7 @@ redirect_from:
 
 - ![citations](https://img.shields.io/badge/Arxiv-2025-black) Hi-End-MAE: Hierarchical encoder-driven masked autoencoders are stronger vision learners for medical image segmentation
 
-  **Fenghe Tang**, Qingsong yao, Wenxin Ma, Chenxu Wu, Zihang Jiang, S. Kevin Zhou.   [**[paper]**](https://arxiv.org/pdf/2502.08347)  [**[code]**](https://github.com/FengheTan9/Hi-End-MAE) ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/Hi-End-MAE) 
+  **Fenghe Tang**, Qingsong Yao, Wenxin Ma, Chenxu Wu, Zihang Jiang, S. Kevin Zhou.   [**[paper]**](https://arxiv.org/pdf/2502.08347)  [**[code]**](https://github.com/FengheTan9/Hi-End-MAE) ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/Hi-End-MAE) 
 
 - ![citations](https://img.shields.io/badge/MICCAI-2024-black)  HySparK: Hybrid Sparse Masking for Large Scale Medical Image Pre-Training  (**<font color="#ff0000">Early Accept</font>**)
 
@@ -92,12 +92,12 @@ redirect_from:
 - **Outstanding Master's Theses**, Harbin Institute of Technology, *2023*
 - **National Scholarship for Postgraduates**, Chinese Ministry of Education, *2023*
 - **Outstanding Graduate Reward**, Harbin Institute of Technology, *2023*
-- **Excellent Developer of Mindspore** , HUAWEI, *2022*
+- **Excellent Developer of MindSpore**, HUAWEI, *2022*
 - **Outstanding Graduate Reward**, Shandong Province, *2021*
 - **The Grand Prize of CANN**, HUAWEI, *2021*
 
 # 📖 Educations
-- *2023.09 -  (now)*, Ph.D of Electronic Information, School of BME, [University of Science and Technology of China](https://en.ustc.edu.cn/). 
+- *2023.09 -  (now)*, Ph.D in Electronic Information, School of BME, [University of Science and Technology of China](https://en.ustc.edu.cn/). 
 - *2021.09 - 2023.06*, Master of Computer Technology, School of Computer Science and Technology, [Harbin Institute of Technology](http://encs.hit.edu.cn/). 
 - *2017.09 - 2021.06*, Bachelor of Software Engineering, School of Computer Science and Technology, [Harbin Institute of Technology](http://encs.hit.edu.cn/). 
 
@@ -119,7 +119,7 @@ redirect_from:
 # 🙌 Developed contribution
 
 - Benchmarks of Medical Image Segmentation [**[code]**](https://github.com/FengheTan9/Medical-Image-Segmentation-Benchmarks)  ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/Medical-Image-Segmentation-Benchmarks)
-- open-source [SPPNet](https://gitee.com/mindspore/models/tree/master/research/cv/SPPNet) with [MindSpore](https://gitee.com/mindspore)  [**[code]**](https://gitee.com/mindspore/models/tree/master/research/cv/SPPNet)
+- Open-source [SPPNet](https://gitee.com/mindspore/models/tree/master/research/cv/SPPNet) with [MindSpore](https://gitee.com/mindspore)  [**[code]**](https://gitee.com/mindspore/models/tree/master/research/cv/SPPNet)
 
 
 
