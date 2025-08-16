@@ -23,6 +23,7 @@ redirect_from:
 
 # 🔥 News
 
+- *2025.08*: &nbsp;One paper accepted to *IEEE Transactions on Image Processing*.
 - *2025.08*: &nbsp;One paper accepted to *Medical Image Analysis*.
 - *2025.07*: &nbsp;One paper accepted to *ECAI*-25.
 - *2025.07*: &nbsp;One paper accepted to *ACM MM*-25.
@@ -74,6 +75,10 @@ redirect_from:
 - ![citations](https://img.shields.io/badge/ISBI-2023-black)   CMU-Net: A Strong ConvMixer-based Medical Ultrasound Image Segmentation Network
 
   **Fenghe Tang**, Lingtao Wang, Chunping Ning, Min Xian, Jianrui Ding.    [**[paper]**](https://arxiv.org/abs/2210.13012)  [**[code]**](https://github.com/FengheTan9/CMU-Net)  ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/CMU-Net)
+  
+- ![citations](https://img.shields.io/badge/IEEE Transactions on Image Processing-2025-black)   SRSNetwork: Siamese Reconstruction-Segmentation Networks based on Dynamic-Parameter Convolution
+
+  Bingkun Nian\*, **Fenghe Tang\***,  Jianrui Ding, Pingping Zhang, Jie Yang, S. Kevin Zhou, Wei Liu.
   
 - ![citations](https://img.shields.io/badge/npj Digital Medicine-2025-black)   Fair ultrasound diagnosis via adversarial protected attribute aware perturbations on latent embeddings
 
