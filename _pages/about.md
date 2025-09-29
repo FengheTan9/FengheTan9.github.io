@@ -17,7 +17,7 @@ redirect_from:
 
 # 😊About Me
 
-- I am a PhD student at the University of Science and Technology of China [(USTC)](https://en.ustc.edu.cn/) supervised by Prof. [S. Kevin Zhou](https://www.linkedin.com/in/s-kevin-zhou-231a094b). I focus on *self-supervised learning*, *foundation model*, *medical image analysis*, *computer vision and pattern recognition*. I received my bachelor's and master's degrees from Harbin Institute of Technology [(HIT)](http://www.hit.edu.cn/) in 2021 and 2023, respectively. My master's tutor is Prof. [Jianrui Ding](https://scholar.google.com/citations?user=4TsvOR8AAAAJ&hl=zh-CN).  I have published 20+ papers at Top Conferences and Journals with [![citations](https://img.shields.io/badge/citations-300+-blue)](https://scholar.google.com/citations?user=x1pODsMAAAAJ)
+- I am a PhD student at the University of Science and Technology of China [(USTC)](https://en.ustc.edu.cn/) supervised by Prof. [S. Kevin Zhou](https://www.linkedin.com/in/s-kevin-zhou-231a094b). I focus on *self-supervised learning*, *foundation model*, *medical image analysis*, *computer vision and pattern recognition*. I received my bachelor's and master's degrees from Harbin Institute of Technology [(HIT)](http://www.hit.edu.cn/) in 2021 and 2023, respectively. My master's tutor is Prof. [Jianrui Ding](https://scholar.google.com/citations?user=4TsvOR8AAAAJ&hl=zh-CN).  I have published 20+ papers at Top Conferences and Journals with [![citations](https://img.shields.io/badge/citations-400+-blue)](https://scholar.google.com/citations?user=x1pODsMAAAAJ)
 - Hobbies: 🎞️🏀🀄🃏🍔
 - **<font color="#9DC3E6">Find collaborators, feel free to contact me at fhtan9@mail.ustc.edu.cn</font>** 😎🥰🤗
 
@@ -57,6 +57,10 @@ redirect_from:
 - ![citations](https://img.shields.io/badge/MIDL-2024-black)  Slide-SAM: Medical SAM Meets Sliding Window  (**<font color="#ff0000">Oral, Best Oral Paper Finalists</font>**)
 
   Quan Quan*, **Fenghe Tang\***, Zikang Xu, Heqin Zhu, S. Kevin Zhou.   [**[paper]**](https://arxiv.org/pdf/2311.10121.pdf)  [**[code]**](https://github.com/Curli-quan/Slide-SAM)   ![GitHub Repo stars](https://img.shields.io/github/stars/Curli-quan/Slide-SAM)
+  
+- ![citations](https://img.shields.io/badge/MICCAI-2025-black) SimCroP: Radiograph Representation Learning with Similarity-driven Cross-granularity Pre-training
+
+  Rongsheng Wang*, **Fenghe Tang\***, Qingsong Yao, Rui Yan, Xu Zhang, Zhen Huang, Haoran Lai, Zhiyang He, Xiaodong Tao, Zihang Jiang, S. Kevin Zhou. [**[paper]**](https://arxiv.org/pdf/2509.08311)  [**[code]**](https://github.com/ToniChopp/SimCroP)   ![GitHub Repo stars](https://img.shields.io/github/stars/ToniChopp/SimCroP)
 
 ### Medical Image Segmentation 🫀🫁🧠
 
@@ -76,9 +80,9 @@ redirect_from:
 
   **Fenghe Tang**, Lingtao Wang, Chunping Ning, Min Xian, Jianrui Ding.    [**[paper]**](https://arxiv.org/abs/2210.13012)  [**[code]**](https://github.com/FengheTan9/CMU-Net)  ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/CMU-Net)
   
-- ![citations](https://img.shields.io/badge/IEEE Transactions on Image Processing-2025-black)   SRSNetwork: Siamese Reconstruction-Segmentation Networks based on Dynamic-Parameter Convolution
+- ![citations](https://img.shields.io/badge/IEEE Transactions on Image Processing-2025-black)   SRS: Siamese Reconstruction-Segmentation Network based on Dynamic-Parameter Convolution
 
-  Bingkun Nian\*, **Fenghe Tang\***,  Jianrui Ding, Pingping Zhang, Jie Yang, S. Kevin Zhou, Wei Liu.
+  Bingkun Nian\*, **Fenghe Tang\***,  Jianrui Ding, Jie Yang, Zhonglong Zheng, S. Kevin Zhou, Wei Liu.  [**[paper]**](https://ieeexplore.ieee.org/abstract/document/11174084)  [**[code]**](https://github.com/fidshu/SRSNet)  ![GitHub Repo stars](https://img.shields.io/github/stars/fidshu/SRSNet)
   
 - ![citations](https://img.shields.io/badge/npj Digital Medicine-2025-black)   Fair ultrasound diagnosis via adversarial protected attribute aware perturbations on latent embeddings
 
@@ -94,6 +98,7 @@ redirect_from:
 
 
 # 🏅 Honors and Awards
+- **MICCAI 2025 outstanding reviewer award ([honorable mentions](https://conferences.miccai.org/2025/en/MICCAI-2025-OUTSTANDING-REVIEWER-AWARDS.html))**, *MICCAI Society, 2025*
 - **Suzhou Industrial Park Scholarship**, University of Science and Technology of China, 2024
 - **Outstanding Master's Theses**, Harbin Institute of Technology, *2023*
 - **National Scholarship for Postgraduates**, Chinese Ministry of Education, *2023*
