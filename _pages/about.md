@@ -19,10 +19,13 @@ redirect_from:
 
 - I am a PhD student at the University of Science and Technology of China [(USTC)](https://en.ustc.edu.cn/) supervised by Prof. [S. Kevin Zhou](https://www.linkedin.com/in/s-kevin-zhou-231a094b). I focus on *self-supervised learning*, *foundation model*, *medical image analysis*, *computer vision and pattern recognition*. I received my bachelor's and master's degrees from Harbin Institute of Technology [(HIT)](http://www.hit.edu.cn/) in 2021 and 2023, respectively. My master's tutor is Prof. [Jianrui Ding](https://scholar.google.com/citations?user=4TsvOR8AAAAJ&hl=zh-CN).  I have published 20+ papers at Top Conferences and Journals with [![citations](https://img.shields.io/badge/citations-400+-blue)](https://scholar.google.com/citations?user=x1pODsMAAAAJ)
 - Hobbies: 🎞️🏀🀄🃏🍔
-- **<font color="#9DC3E6">Find collaborators, feel free to contact me at fhtan9@mail.ustc.edu.cn</font>** 😎🥰🤗
+- **<font color="#ff0000">Seeking postdoctoral and research positions, feel free to contact me at fhtan9@mail.ustc.edu.cn</font>** 😎🥰🤗
 
 # 🔥 News
 
+- *2025.11*:  Start my research internship at Alibaba DAMO Academy.
+- *2025.11*: &nbsp;One paper accepted to *WACV*-26.
+- *2025.10*:  We released [**U-Bench**](https://arxiv.org/pdf/2510.07041), banchmarking with 100 u-shape variants 🤗🤗🤗
 - *2025.08*: &nbsp;One paper accepted to *IEEE Transactions on Image Processing*.
 - *2025.08*: &nbsp;One paper accepted to *Medical Image Analysis*.
 - *2025.07*: &nbsp;One paper accepted to *ECAI*-25.
@@ -64,6 +67,10 @@ redirect_from:
 
 ### Medical Image Segmentation 🫀🫁🧠
 
+- ![citations](https://img.shields.io/badge/arXiv-2025-black)  U-Bench: A Comprehensive Understanding of U-Net through 100-Variant Benchmarking
+
+  **Fenghe Tang**, Chengqi Dong, Wenxin Ma, Zikang Xu, Heqin Zhu, Zihang Jiang, Rongsheng Wang, Yuhao Wang, Chenxu Wu, Shaohua Kevin Zhou. [**[paper]**](https://arxiv.org/pdf/2510.07041)  [**[project]**](https://fenghetan9.github.io/ubench)  [**[data]**](https://huggingface.co/datasets/FengheTan9/U-Bench)  [**[weights]**](https://huggingface.co/FengheTan9/U-Bench)  [**[code]**](https://github.com/FengheTan9/U-Bench)   ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/U-Bench)
+
 - ![citations](https://img.shields.io/badge/ACM MM-2025-black)   Mobile U-ViT: Revisiting large kernel and U-shaped ViT for efficient medical image segmentation
 
   **Fenghe Tang\***, Bingkun Nian\*,  Jianrui Ding, Wenxin Ma, Quan Quan, Chengqi Dong, Jie Yang, Wei Liu, S. Kevin Zhou. [**[paper]**](https://arxiv.org/pdf/2508.01064)  [**[code]**](https://github.com/FengheTan9/LLM4Seg)   ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/Mobile-U-ViT)
@@ -80,7 +87,7 @@ redirect_from:
 
   **Fenghe Tang**, Lingtao Wang, Chunping Ning, Min Xian, Jianrui Ding.    [**[paper]**](https://arxiv.org/abs/2210.13012)  [**[code]**](https://github.com/FengheTan9/CMU-Net)  ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/CMU-Net)
   
-- ![citations](https://img.shields.io/badge/IEEE Transactions on Image Processing-2025-black)   SRS: Siamese Reconstruction-Segmentation Network based on Dynamic-Parameter Convolution
+- ![citations](https://img.shields.io/badge/IEEE--TIP-2025-black)   SRS: Siamese Reconstruction-Segmentation Network based on Dynamic-Parameter Convolution
 
   Bingkun Nian\*, **Fenghe Tang\***,  Jianrui Ding, Jie Yang, Zhonglong Zheng, S. Kevin Zhou, Wei Liu.  [**[paper]**](https://ieeexplore.ieee.org/abstract/document/11174084)  [**[code]**](https://github.com/fidshu/SRSNet)  ![GitHub Repo stars](https://img.shields.io/github/stars/fidshu/SRSNet)
   
@@ -98,6 +105,7 @@ redirect_from:
 
 
 # 🏅 Honors and Awards
+- **National Scholarship for Postgraduates**, Chinese Ministry of Education, *2025*
 - **MICCAI 2025 outstanding reviewer award ([honorable mentions](https://conferences.miccai.org/2025/en/MICCAI-2025-OUTSTANDING-REVIEWER-AWARDS.html))**, *MICCAI Society, 2025*
 - **Suzhou Industrial Park Scholarship**, University of Science and Technology of China, 2024
 - **Outstanding Master's Theses**, Harbin Institute of Technology, *2023*
@@ -125,6 +133,7 @@ redirect_from:
 - 2024 Fall, USTC, Medical Image Computing (*BMED6208P.01_152261*)
 
 # 💻 Internships
+- *2025.11 - (now)*, Alibaba DAMO Academy
 - *2021.04 - 2022.04*, HUAWEI, Ascend,  [Mindspore developer](https://github.com/mindspore-ai/mindspore).
 
 # 🙌 Developed contribution
