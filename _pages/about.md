@@ -17,15 +17,15 @@ redirect_from:
 
 # 😊About Me
 
-- I am a PhD student at the University of Science and Technology of China [(USTC)](https://en.ustc.edu.cn/) supervised by Prof. [S. Kevin Zhou](https://www.linkedin.com/in/s-kevin-zhou-231a094b). I focus on *self-supervised learning*, *foundation model*, *medical image analysis*, *computer vision and pattern recognition*. I received my bachelor's and master's degrees from Harbin Institute of Technology [(HIT)](http://www.hit.edu.cn/) in 2021 and 2023, respectively. My master's tutor is Prof. [Jianrui Ding](https://scholar.google.com/citations?user=4TsvOR8AAAAJ&hl=zh-CN).  I have published 20+ papers at Top Conferences and Journals with [![citations](https://img.shields.io/badge/citations-400+-blue)](https://scholar.google.com/citations?user=x1pODsMAAAAJ)
+- I am a PhD student at the University of Science and Technology of China [(USTC)](https://en.ustc.edu.cn/) supervised by Prof. [S. Kevin Zhou](https://www.linkedin.com/in/s-kevin-zhou-231a094b). I focus on *self-supervised learning*, *foundation model*, *medical image analysis*, *computer vision and pattern recognition*. I received my bachelor's and master's degrees from Harbin Institute of Technology [(HIT)](http://www.hit.edu.cn/) in 2021 and 2023, respectively. My master's tutor is Prof. [Jianrui Ding](https://scholar.google.com/citations?user=4TsvOR8AAAAJ&hl=zh-CN).  I have published 20+ papers at Top Conferences and Journals with [![citations](https://img.shields.io/badge/citations-500+-blue)](https://scholar.google.com/citations?user=x1pODsMAAAAJ)
 - Hobbies: 🎞️🏀🀄🃏🍔
-- **<font color="#ff0000">Seeking postdoctoral and research positions, feel free to contact me at fhtan9@mail.ustc.edu.cn</font>** 😎🥰🤗
+- **<font color="#ff0000">Seeking postdoctoral and research positions, feel free to contact me at </font> fhtan9@mail.ustc.edu.cn** 😎🥰🤗
 
 # 🔥 News
 
-- *2025.11*:  Start my research internship at Alibaba DAMO Academy.
+- *2025.11*: &nbsp;Start my research internship at Alibaba DAMO Academy.
 - *2025.11*: &nbsp;One paper accepted to *WACV*-26.
-- *2025.10*:  We released [**U-Bench**](https://arxiv.org/pdf/2510.07041), banchmarking with 100 u-shape variants 🤗🤗🤗
+- *2025.10*: &nbsp;We released [**U-Bench**](https://arxiv.org/pdf/2510.07041), banchmarking with 100 u-shape variants 🤗🤗🤗
 - *2025.08*: &nbsp;One paper accepted to *IEEE Transactions on Image Processing*.
 - *2025.08*: &nbsp;One paper accepted to *Medical Image Analysis*.
 - *2025.07*: &nbsp;One paper accepted to *ECAI*-25.
@@ -124,9 +124,13 @@ redirect_from:
 
 *Conference Reviewers:*
 
-- The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025
+- The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025-2026
 - ACM International Conference on Multimedia (ACM MM), 2025
 - International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2024-2025
+
+*Journal Reviewers:*
+
+- MedIA, JBHI, ESWA, EAAI, KBS
 
 *Teaching Assistant:*
 
