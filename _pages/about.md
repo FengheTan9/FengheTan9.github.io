@@ -23,6 +23,7 @@ redirect_from:
 
 # 🔥 News
 
+- *2026.01*: &nbsp;Two paper accepted to *ISBI*-26.
 - *2025.11*: &nbsp;Start my research internship at Alibaba DAMO Academy.
 - *2025.11*: &nbsp;One paper accepted to *WACV*-26.
 - *2025.10*: &nbsp;We released [**U-Bench**](https://arxiv.org/pdf/2510.07041), banchmarking with 100 u-shape variants 🤗🤗🤗
@@ -126,7 +127,7 @@ redirect_from:
 
 - The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025-2026
 - ACM International Conference on Multimedia (ACM MM), 2025
-- International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2024-2025
+- International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2024-2026
 
 *Journal Reviewers:*
 
