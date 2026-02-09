@@ -17,16 +17,17 @@ redirect_from:
 
 # 😊About Me
 
-- I am a PhD student at the University of Science and Technology of China [(USTC)](https://en.ustc.edu.cn/) supervised by Prof. [S. Kevin Zhou](https://www.linkedin.com/in/s-kevin-zhou-231a094b). I focus on *self-supervised learning*, *foundation model*, *medical image analysis*, *computer vision and pattern recognition*. I received my bachelor's and master's degrees from Harbin Institute of Technology [(HIT)](http://www.hit.edu.cn/) in 2021 and 2023, respectively. My master's tutor is Prof. [Jianrui Ding](https://scholar.google.com/citations?user=4TsvOR8AAAAJ&hl=zh-CN).  I have published 20+ papers at Top Conferences and Journals with [![citations](https://img.shields.io/badge/citations-500+-blue)](https://scholar.google.com/citations?user=x1pODsMAAAAJ)
+- I am a PhD student at the University of Science and Technology of China [(USTC)](https://en.ustc.edu.cn/) supervised by Prof. [Shaohua Kevin Zhou](https://www.linkedin.com/in/shaohua-kevin-zhou-231a094b/). I focus on *self-supervised learning*, *foundation model*, *medical image analysis*, *computer vision and pattern recognition*. I received my bachelor's and master's degrees from Harbin Institute of Technology [(HIT)](http://www.hit.edu.cn/) in 2021 and 2023, respectively. My master's tutor is Prof. [Jianrui Ding](https://scholar.google.com/citations?user=4TsvOR8AAAAJ&hl=zh-CN).  I have published 30+ papers at Top Conferences and Journals with [![citations](https://img.shields.io/badge/citations-500+-blue)](https://scholar.google.com/citations?user=x1pODsMAAAAJ)
 - Hobbies: 🎞️🏀🀄🃏🍔
 - **<font color="#ff0000">Seeking postdoctoral and research positions, feel free to contact me at </font> fhtan9@mail.ustc.edu.cn** 😎🥰🤗
 
 # 🔥 News
 
-- *2026.01*: &nbsp;Two paper accepted to *ISBI*-26.
+- *2026.01*: &nbsp;One paper accepted to *ICLR*-26.
+- *2026.01*: &nbsp;Two papers accepted to *ISBI*-26.
 - *2025.11*: &nbsp;Start my research internship at Alibaba DAMO Academy.
 - *2025.11*: &nbsp;One paper accepted to *WACV*-26.
-- *2025.10*: &nbsp;We released [**U-Bench**](https://arxiv.org/pdf/2510.07041), banchmarking with 100 u-shape variants 🤗🤗🤗
+- *2025.10*: &nbsp;We released [**U-Bench**](https://arxiv.org/pdf/2510.07041), banchmarking with 100 u-shape variants. 🤗🤗🤗
 - *2025.08*: &nbsp;One paper accepted to *IEEE Transactions on Image Processing*.
 - *2025.08*: &nbsp;One paper accepted to *Medical Image Analysis*.
 - *2025.07*: &nbsp;One paper accepted to *ECAI*-25.
@@ -44,11 +45,11 @@ redirect_from:
 
 # 📝 Selected publications
 
-### Self-supervised learning & Foundation model 💪
+### Self-supervised Learning & Foundation Model 💪
 
-- ![citations](https://img.shields.io/badge/Medical Image Analysis-2025-black) Hi-End-MAE: Hierarchical encoder-driven masked autoencoders are stronger vision learners for medical image segmentation
+- ![citations](https://img.shields.io/badge/Medical Image Analysis-2026-black) Hi-End-MAE: Hierarchical encoder-driven masked autoencoders are stronger vision learners for medical image segmentation
 
-  **Fenghe Tang**, Qingsong Yao, Wenxin Ma, Chenxu Wu, Zihang Jiang, S. Kevin Zhou.   [**[paper]**](https://arxiv.org/pdf/2502.08347)  [**[code]**](https://github.com/FengheTan9/Hi-End-MAE) ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/Hi-End-MAE) 
+  **Fenghe Tang**, Qingsong Yao, Wenxin Ma, Chenxu Wu, Zihang Jiang, S. Kevin Zhou.   [**[paper]**](https://www.sciencedirect.com/science/article/abs/pii/S1361841525003160)  [**[code]**](https://github.com/FengheTan9/Hi-End-MAE) ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/Hi-End-MAE) 
 
 - ![citations](https://img.shields.io/badge/Medical Image Analysis-2025-black)  MambaMIM: Pre-training Mamba with State Space Token-interpolation and its Application to Medical Image Segmentation
 
@@ -58,10 +59,15 @@ redirect_from:
 
   **Fenghe Tang**, Ronghao Xu, Qingsong Yao, Xueming Fu, Heqin Zhu, Zaiyi Liu, S. Kevin Zhou.   [**[pape]**](https://arxiv.org/pdf/2408.05815.pdf)  [**[code]**](https://github.com/FengheTan9/HySparK) ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/HySparK)
 
+- ![citations](https://img.shields.io/badge/ICLR-2026-black)  MedGMAE: Gaussian Masked Autoencoders for Medical Volumetric Representation Learning. 
+
+  Xueming Fu*, **Fenghe Tang\***, Rongsheng Wang, Yingtai Li, Lixia Han, Jian Lu, Zihang Jiang, S Kevin Zhou.
+
+
 - ![citations](https://img.shields.io/badge/MIDL-2024-black)  Slide-SAM: Medical SAM Meets Sliding Window  (**<font color="#ff0000">Oral, Best Oral Paper Finalists</font>**)
 
   Quan Quan*, **Fenghe Tang\***, Zikang Xu, Heqin Zhu, S. Kevin Zhou.   [**[paper]**](https://arxiv.org/pdf/2311.10121.pdf)  [**[code]**](https://github.com/Curli-quan/Slide-SAM)   ![GitHub Repo stars](https://img.shields.io/github/stars/Curli-quan/Slide-SAM)
-  
+
 - ![citations](https://img.shields.io/badge/MICCAI-2025-black) SimCroP: Radiograph Representation Learning with Similarity-driven Cross-granularity Pre-training
 
   Rongsheng Wang*, **Fenghe Tang\***, Qingsong Yao, Rui Yan, Xu Zhang, Zhen Huang, Haoran Lai, Zhiyang He, Xiaodong Tao, Zihang Jiang, S. Kevin Zhou. [**[paper]**](https://arxiv.org/pdf/2509.08311)  [**[code]**](https://github.com/ToniChopp/SimCroP)   ![GitHub Repo stars](https://img.shields.io/github/stars/ToniChopp/SimCroP)
@@ -94,7 +100,7 @@ redirect_from:
   
 - ![citations](https://img.shields.io/badge/npj Digital Medicine-2025-black)   Fair ultrasound diagnosis via adversarial protected attribute aware perturbations on latent embeddings
 
-  Zikang Xu, **Fenghe Tang**, Quan Quan, Qingsong Yao, Qingpeng Kong, Jianrui Ding, Chunping Ning, S. Kevin Zhou.  [**[paper]**](https://www.nature.com/articles/s41746-025-01641-y)  [**[code]**](https://github.com/XuZikang/APPLE) ![img](https://camo.githubusercontent.com/debfb1bad4f3efe9dcb8c5946ce7eeadfe222c8d3cf3591a92c115d9761a3444/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f58755a696b616e672f4150504c452e7376673f6c6162656c3d5374617273267374796c653d736f6369616c)
+  Zikang Xu, **Fenghe Tang**, Quan Quan, Qingsong Yao, Qingpeng Kong, Jianrui Ding, Chunping Ning, S. Kevin Zhou.  [**[paper]**](https://www.nature.com/articles/s41746-025-01641-y)  [**[code]**](https://github.com/XuZikang/APPLE) ![GitHub Repo stars](https://img.shields.io/github/stars/XuZikang/APPLE)
 
 ### AI4S 🧐
 
@@ -107,7 +113,7 @@ redirect_from:
 
 # 🏅 Honors and Awards
 - **National Scholarship for Postgraduates**, Chinese Ministry of Education, *2025*
-- **MICCAI 2025 outstanding reviewer award ([honorable mentions](https://conferences.miccai.org/2025/en/MICCAI-2025-OUTSTANDING-REVIEWER-AWARDS.html))**, *MICCAI Society, 2025*
+- **MICCAI 2025 outstanding reviewer award ([Honorable Mentions](https://conferences.miccai.org/2025/en/MICCAI-2025-OUTSTANDING-REVIEWER-AWARDS.html))**, *MICCAI Society, 2025*
 - **Suzhou Industrial Park Scholarship**, University of Science and Technology of China, 2024
 - **Outstanding Master's Theses**, Harbin Institute of Technology, *2023*
 - **National Scholarship for Postgraduates**, Chinese Ministry of Education, *2023*
@@ -125,9 +131,11 @@ redirect_from:
 
 *Conference Reviewers:*
 
-- The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025-2026
-- ACM International Conference on Multimedia (ACM MM), 2025
-- International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2024-2026
+- The IEEE/CVF Conference on Computer Vision and Pattern Recognition (*CVPR*), 2025-2026
+- ACM International Conference on Multimedia (*ACM MM*), 2025
+- The European Conference on Computer Vision (*ECCV*), 2026
+- International Conference on Medical Image Computing and Computer-Assisted Intervention (*MICCAI*), 2024-2026
+- International Symposium on Biomedical Imaging (*ISBI*), 2026
 
 *Journal Reviewers:*
 
@@ -144,7 +152,7 @@ redirect_from:
 # 🙌 Developed contribution
 
 - Benchmarks of Medical Image Segmentation [**[code]**](https://github.com/FengheTan9/Medical-Image-Segmentation-Benchmarks)  ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/Medical-Image-Segmentation-Benchmarks)
-- Open-source [SPPNet](https://gitee.com/mindspore/models/tree/master/research/cv/SPPNet) with [MindSpore](https://gitee.com/mindspore)  [**[code]**](https://gitee.com/mindspore/models/tree/master/research/cv/SPPNet)
+- Re-Implement [SPPNet (Kaiming He .et al-TPAMI 2015)](https://gitee.com/mindspore/models/tree/master/research/cv/SPPNet) on [MindSpore Official Model Zoo](https://gitee.com/mindspore)  [**[code]**](https://gitee.com/mindspore/models/tree/master/research/cv/SPPNet)
 
 
 
