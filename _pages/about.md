@@ -60,8 +60,6 @@ redirect_from:
 
 - ![citations](https://img.shields.io/badge/MICCAI-2024-white)  [HySparK: Hybrid Sparse Masking for Large Scale Medical Image Pre-Training](https://arxiv.org/pdf/2408.05815.pdf), **Fenghe Tang**, Ronghao Xu, Qingsong Yao, Xueming Fu, Heqin Zhu, Zaiyi Liu, S. Kevin Zhou<sup>$\ast$</sup>.   *(Early Accept)*  [**[code]**](https://github.com/FengheTan9/HySparK) ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/HySparK)
 
-
-
 - ![citations](https://img.shields.io/badge/MIDL-2024-white)  [Slide-SAM: Medical SAM Meets Sliding Window](https://arxiv.org/pdf/2311.10121.pdf), Quan Quan<sup>$\dagger$</sup>, **Fenghe Tang**<sup>$\dagger$</sup>, Zikang Xu, Heqin Zhu, S. Kevin Zhou<sup>$\ast$</sup>. *(Oral, Best Oral Paper Finalists)*  [**[code]**](https://github.com/Curli-quan/Slide-SAM) ![GitHub Repo stars](https://img.shields.io/github/stars/Curli-quan/Slide-SAM)
 
 
@@ -75,16 +73,16 @@ redirect_from:
 
 - ![citations](https://img.shields.io/badge/IEEE--TIP-2025-white) [SRS: Siamese Reconstruction-Segmentation Network based on Dynamic-Parameter Convolution](https://ieeexplore.ieee.org/abstract/document/11174084), Bingkun Nian<sup>$\dagger$</sup>, **Fenghe Tang**<sup>$\dagger$</sup>,  Jianrui Ding, Jie Yang, Zhonglong Zheng, S. Kevin Zhou<sup>$\ast$</sup>, Wei Liu<sup>$\ast$</sup>. *IEEE Transactions on Image Processing. (Impact factor=13.7)*  [**[code]**](https://github.com/fidshu/SRSNet)  ![GitHub Repo stars](https://img.shields.io/github/stars/fidshu/SRSNet)
 
-- ![citations](https://img.shields.io/badge/npj--DM-2025-white) [Fair ultrasound diagnosis via adversarial protected attribute aware perturbations on latent embeddings](https://www.nature.com/articles/s41746-025-01641-y), Zikang Xu, **Fenghe Tang**, Quan Quan, Qingsong Yao, Qingpeng Kong, Jianrui Ding, Chunping Ning, S. Kevin Zhou<sup>$\ast$</sup>. *npj Digital Medicine. (Impact factor=15.1)*  [**[code]**](https://github.com/XuZikang/APPLE) ![GitHub Repo stars](https://img.shields.io/github/stars/XuZikang/APPLE)
+- ![citations](https://img.shields.io/badge/npj Dig. Med.-2025-white) [Fair ultrasound diagnosis via adversarial protected attribute aware perturbations on latent embeddings](https://www.nature.com/articles/s41746-025-01641-y), Zikang Xu, **Fenghe Tang**, Quan Quan, Qingsong Yao, Qingpeng Kong, Jianrui Ding, Chunping Ning, S. Kevin Zhou<sup>$\ast$</sup>. *npj Digital Medicine. (Impact factor=15.1)*  [**[code]**](https://github.com/XuZikang/APPLE) ![GitHub Repo stars](https://img.shields.io/github/stars/XuZikang/APPLE)
 
-- ![citations](https://img.shields.io/badge/ISBI-2024-white) [CMUNeXt: An Efficient Medical Image Segmentation Network based on Large Kernel and Skip Fusion](https://arxiv.org/pdf/2308.01239), **Fenghe Tang**, ‪Jianrui Ding‬‬, Quan Quan, Lingtao Wang, Chunping Ning,‪ S. Kevin Zhou<sup>$\ast$</sup>‬‬. [**[code]**](https://github.com/FengheTan9/CMUNeXt)   ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/CMUNeXt)
+- ![citations](https://img.shields.io/badge/ISBI-2024-white) [CMUNeXt: An Efficient Medical Image Segmentation Network based on Large Kernel and Skip Fusion](https://arxiv.org/pdf/2308.01239), **Fenghe Tang**, ‪Jianrui Ding‬‬, Quan Quan, Lingtao Wang, Chunping Ning,‪ S. Kevin Zhou<sup>$\ast$</sup>‬‬. *(Oral)* [**[code]**](https://github.com/FengheTan9/CMUNeXt)   ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/CMUNeXt)
 
 - ![citations](https://img.shields.io/badge/ISBI-2023-white) [CMU-Net: A Strong ConvMixer-based Medical Ultrasound Image Segmentation Network](https://arxiv.org/abs/2210.13012), **Fenghe Tang**, Lingtao Wang, Chunping Ning, Min Xian, Jianrui Ding<sup>$\ast$</sup>.  [**[code]**](https://github.com/FengheTan9/CMU-Net)  ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/CMU-Net)
 
 
 ### AI4S 🧐
 
-- ![citations](https://img.shields.io/badge/Nature Comm-2025-white) [Deep generalizable prediction of RNA secondary structure via base pair motif energy](https://www.nature.com/articles/s41467-025-60048-1), Heqin Zhu, **Fenghe Tang**, Quan Quan, Ke Chen, Peng Xiong<sup>$\ast$</sup>, S. Kevin Zhou<sup>$\ast$</sup>. *Nature Communications (Impact factor=15.7)* [**[code]**](https://github.com/heqin-zhu/BPfold) ![GitHub Repo stars](https://img.shields.io/github/stars/heqin-zhu/BPfold)
+- ![citations](https://img.shields.io/badge/Nat Comm.-2025-white) [Deep generalizable prediction of RNA secondary structure via base pair motif energy](https://www.nature.com/articles/s41467-025-60048-1), Heqin Zhu, **Fenghe Tang**, Quan Quan, Ke Chen, Peng Xiong<sup>$\ast$</sup>, S. Kevin Zhou<sup>$\ast$</sup>. *Nature Communications (Impact factor=15.7)* [**[code]**](https://github.com/heqin-zhu/BPfold) ![GitHub Repo stars](https://img.shields.io/github/stars/heqin-zhu/BPfold)
 
 
 
