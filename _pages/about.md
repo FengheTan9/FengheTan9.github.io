@@ -17,14 +17,15 @@ redirect_from:
 
 # 😊About Me
 
-- I am a PhD student at the University of Science and Technology of China [(USTC)](https://en.ustc.edu.cn/) supervised by Prof. [Shaohua Kevin Zhou](https://www.linkedin.com/in/shaohua-kevin-zhou-231a094b/). I focus on *self-supervised learning*, *foundation model*, *medical image analysis*, *computer vision and pattern recognition*. I received my bachelor's and master's degrees from Harbin Institute of Technology [(HIT)](http://www.hit.edu.cn/) in 2021 and 2023, respectively. My master's tutor is Prof. [Jianrui Ding](https://scholar.google.com/citations?user=4TsvOR8AAAAJ&hl=zh-CN).  I have published 30+ papers at Top Conferences and Journals with [![citations](https://img.shields.io/badge/citations-500+-blue)](https://scholar.google.com/citations?user=x1pODsMAAAAJ)
+- I am a PhD student at the University of Science and Technology of China [(USTC)](https://en.ustc.edu.cn/) supervised by Prof. [Shaohua Kevin Zhou](https://www.linkedin.com/in/shaohua-kevin-zhou-231a094b/). I focus on *self-supervised learning*, *foundation model*, *medical image analysis*, *computer vision and pattern recognition*. I received my bachelor's and master's degrees from Harbin Institute of Technology [(HIT)](http://www.hit.edu.cn/) in 2021 and 2023, respectively. My master's tutor is Prof. [Jianrui Ding](https://scholar.google.com/citations?user=4TsvOR8AAAAJ&hl=zh-CN).  I have published 30+ papers at Top Conferences and Journals with [![citations](https://img.shields.io/badge/citations-600+-blue)](https://scholar.google.com/citations?user=x1pODsMAAAAJ)
 - Hobbies: 🎞️🏀🀄🃏🍔
 - **<font color="#ff0000">Seeking postdoctoral and research positions, feel free to contact me at </font> fhtan9@mail.ustc.edu.cn** 😎🥰🤗
 
 # 🔥 News
 
+- *2026.02*: &nbsp;One paper accepted to *CVPR*-26 Findings.
 - *2026.01*: &nbsp;One paper accepted to *ICLR*-26.
-- *2026.01*: &nbsp;Two papers accepted to *ISBI*-26.
+- *2026.01*: &nbsp;Two papers accepted to *ISBI*-26 (Both are**<font color="#ff0000"> Orals</font>**).
 - *2025.11*: &nbsp;Start my research internship at Alibaba DAMO Academy.
 - *2025.11*: &nbsp;One paper accepted to *WACV*-26.
 - *2025.10*: &nbsp;We released [**U-Bench**](https://arxiv.org/pdf/2510.07041), banchmarking with 100 u-shape variants. 🤗🤗🤗
@@ -57,11 +58,11 @@ redirect_from:
 
 - ![citations](https://img.shields.io/badge/MICCAI-2024-black)  HySparK: Hybrid Sparse Masking for Large Scale Medical Image Pre-Training  (**<font color="#ff0000">Early Accept</font>**)
 
-  **Fenghe Tang**, Ronghao Xu, Qingsong Yao, Xueming Fu, Heqin Zhu, Zaiyi Liu, S. Kevin Zhou.   [**[pape]**](https://arxiv.org/pdf/2408.05815.pdf)  [**[code]**](https://github.com/FengheTan9/HySparK) ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/HySparK)
+  **Fenghe Tang**, Ronghao Xu, Qingsong Yao, Xueming Fu, Heqin Zhu, Zaiyi Liu, S. Kevin Zhou.   [**[paper]**](https://arxiv.org/pdf/2408.05815.pdf)  [**[code]**](https://github.com/FengheTan9/HySparK) ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/HySparK)
 
 - ![citations](https://img.shields.io/badge/ICLR-2026-black)  MedGMAE: Gaussian Masked Autoencoders for Medical Volumetric Representation Learning. 
 
-  Xueming Fu*, **Fenghe Tang\***, Rongsheng Wang, Yingtai Li, Lixia Han, Jian Lu, Zihang Jiang, S Kevin Zhou.
+  Xueming Fu*, **Fenghe Tang\***, Rongsheng Wang, Yingtai Li, Lixia Han, Jian Lu, Zihang Jiang, S Kevin Zhou.  [**[paper]**](https://openreview.net/pdf?id=Z2XIRLv535)  [**[code]**](https://github.com/windrise/MedGMAE) ![GitHub Repo stars](https://img.shields.io/github/stars/windrise/MedGMAE)
 
 
 - ![citations](https://img.shields.io/badge/MIDL-2024-black)  Slide-SAM: Medical SAM Meets Sliding Window  (**<font color="#ff0000">Oral, Best Oral Paper Finalists</font>**)
@@ -132,18 +133,30 @@ redirect_from:
 *Conference Reviewers:*
 
 - The IEEE/CVF Conference on Computer Vision and Pattern Recognition (*CVPR*), 2025-2026
-- ACM International Conference on Multimedia (*ACM MM*), 2025
-- The European Conference on Computer Vision (*ECCV*), 2026
+- ACM International Conference on Multimedia (*ACM MM*), 2025-2026
+- European Conference on Computer Vision (*ECCV*), 2026
 - International Conference on Medical Image Computing and Computer-Assisted Intervention (*MICCAI*), 2024-2026
+- British Machine Vision Conference (*BMVC*), 2026
 - International Symposium on Biomedical Imaging (*ISBI*), 2026
 
 *Journal Reviewers:*
 
-- MedIA, JBHI, ESWA, EAAI, KBS
+- *IEEE Transactions on Pattern Analysis and Machine Intelligence* (*TPAMI*)
+- *Medical Image Analysis* (*MedIA*)
+- *The IEEE Journal of Biomedical and Health Informatics* (*JBHI*)
+- *Expert Systems With Applications* (*ESWA*)
+- *Knowledge-based Systems* (*KBS*)
+- *Engineering Applications of Artificial Intelligence* (*EAAI*)
+- Neurocomputing
+- *Computerized Medical Imaging and Graphics* (*CMIG*)
 
 *Teaching Assistant:*
 
 - 2024 Fall, USTC, Medical Image Computing (*BMED6208P.01_152261*)
+
+Talks:
+
+- MICS Webinar [(*20250916*)](https://mp.weixin.qq.com/s/PDTai2kPjiHPma7Frnth6Q)
 
 # 💻 Internships
 - *2025.11 - (now)*, Alibaba DAMO Academy
