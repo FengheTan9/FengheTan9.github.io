@@ -7,7 +7,7 @@ main:
     url: "/#-news"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#-Selected publications"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
@@ -15,3 +15,9 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
+  - title: "Professional Services"
+    url: "/#-Professional Services"
+
+  - title: "Internships"
+    url: "/#-Internships"
+    

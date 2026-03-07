@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Fenghe Tang \n (汤丰赫)"
-description              : "Ph.D candidate in USTC, Miracle. Focusing on medical image processing, computer vision and pattern recognition."
+description              : "Ph.D candidate in USTC, MIRACLE. Focusing on foundation model, computer vision and pattern recognition :)."
 repository               : "FengheTan9/FengheTan9.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "丰赫-汤-4a2121287"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : "https://orcid.org/0009-0009-6193-4855" # e.g., "https://orcid.org/xxxx"
   pinterest        :
