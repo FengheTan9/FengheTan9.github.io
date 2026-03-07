@@ -46,68 +46,70 @@ redirect_from:
 
 # 📝 Selected publications
 
+**$\dagger$: equal contributions; $\ast$: corresponding author**
+
 ### Self-supervised Learning & Foundation Model 💪
 
-- ![citations](https://img.shields.io/badge/Medical Image Analysis-2026-black) Hi-End-MAE: Hierarchical encoder-driven masked autoencoders are stronger vision learners for medical image segmentation
+- ![citations](https://img.shields.io/badge/Medical Image Analysis-2026-white) Hi-End-MAE: Hierarchical encoder-driven masked autoencoders are stronger vision learners for medical image segmentation, *Medical Image Analysis. (Impact factor=11.8)*
 
-  **Fenghe Tang**, Qingsong Yao, Wenxin Ma, Chenxu Wu, Zihang Jiang, S. Kevin Zhou.   [**[paper]**](https://www.sciencedirect.com/science/article/abs/pii/S1361841525003160)  [**[code]**](https://github.com/FengheTan9/Hi-End-MAE) ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/Hi-End-MAE) 
+  **Fenghe Tang**, Qingsong Yao, Wenxin Ma, Chenxu Wu, Zihang Jiang<sup>$\ast$</sup>, S. Kevin Zhou<sup>$\ast$</sup>.   [**[paper]**](https://www.sciencedirect.com/science/article/abs/pii/S1361841525003160)  [**[code]**](https://github.com/FengheTan9/Hi-End-MAE) ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/Hi-End-MAE) 
 
-- ![citations](https://img.shields.io/badge/Medical Image Analysis-2025-black)  MambaMIM: Pre-training Mamba with State Space Token-interpolation and its Application to Medical Image Segmentation
+- ![citations](https://img.shields.io/badge/ICLR-2026-white)  MedGMAE: Gaussian Masked Autoencoders for Medical Volumetric Representation Learning. 
 
-  **Fenghe Tang\***, Bingkun Nian\*, Yingtai Li\*, Zihang Jiang, Jie Yang, Wei Liu, S. Kevin Zhou.    [**[paper]**](https://arxiv.org/pdf/2408.08070.pdf)  [**[code]**](https://github.com/FengheTan9/MambaMIM) ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/MambaMIM)
+  Xueming Fu<sup>$\dagger$</sup>, **Fenghe Tang**<sup>$\dagger$</sup>, Rongsheng Wang, Yingtai Li, Lixia Han, Jian Lu, Zihang Jiang<sup>$\ast$</sup>, S Kevin Zhou<sup>$\ast$</sup>.  [**[paper]**](https://openreview.net/pdf?id=Z2XIRLv535)  [**[code]**](https://github.com/windrise/MedGMAE) ![GitHub Repo stars](https://img.shields.io/github/stars/windrise/MedGMAE)
 
-- ![citations](https://img.shields.io/badge/MICCAI-2024-black)  HySparK: Hybrid Sparse Masking for Large Scale Medical Image Pre-Training  (**<font color="#ff0000">Early Accept</font>**)
+- ![citations](https://img.shields.io/badge/Medical Image Analysis-2025-white)  MambaMIM: Pre-training Mamba with State Space Token-interpolation and its Application to Medical Image Segmentation, *Medical Image Analysis. (Impact factor=11.8)*
 
-  **Fenghe Tang**, Ronghao Xu, Qingsong Yao, Xueming Fu, Heqin Zhu, Zaiyi Liu, S. Kevin Zhou.   [**[paper]**](https://arxiv.org/pdf/2408.05815.pdf)  [**[code]**](https://github.com/FengheTan9/HySparK) ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/HySparK)
+  **Fenghe Tang**<sup>$\dagger$</sup>, Bingkun Nian<sup>$\dagger$</sup>, Yingtai Li<sup>$\dagger$</sup>, Zihang Jiang, Jie Yang, Wei Liu<sup>$\ast$</sup>, S. Kevin Zhou<sup>$\ast$</sup>.    [**[paper]**](https://arxiv.org/pdf/2408.08070.pdf)  [**[code]**](https://github.com/FengheTan9/MambaMIM) ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/MambaMIM)
 
-- ![citations](https://img.shields.io/badge/ICLR-2026-black)  MedGMAE: Gaussian Masked Autoencoders for Medical Volumetric Representation Learning. 
+- ![citations](https://img.shields.io/badge/MICCAI-2025-white) SimCroP: Radiograph Representation Learning with Similarity-driven Cross-granularity Pre-training
 
-  Xueming Fu*, **Fenghe Tang\***, Rongsheng Wang, Yingtai Li, Lixia Han, Jian Lu, Zihang Jiang, S Kevin Zhou.  [**[paper]**](https://openreview.net/pdf?id=Z2XIRLv535)  [**[code]**](https://github.com/windrise/MedGMAE) ![GitHub Repo stars](https://img.shields.io/github/stars/windrise/MedGMAE)
+  Rongsheng Wang<sup>$\dagger$</sup>, **Fenghe Tang**<sup>$\dagger$</sup>, Qingsong Yao, Rui Yan<sup>$\ast$</sup>, Xu Zhang, Zhen Huang, Haoran Lai, Zhiyang He, Xiaodong Tao, Zihang Jiang<sup>$\ast$</sup>, S. Kevin Zhou<sup>$\ast$</sup>. [**[paper]**](https://arxiv.org/pdf/2509.08311)  [**[code]**](https://github.com/ToniChopp/SimCroP)   ![GitHub Repo stars](https://img.shields.io/github/stars/ToniChopp/SimCroP)
+
+- ![citations](https://img.shields.io/badge/MICCAI-2024-white)  HySparK: Hybrid Sparse Masking for Large Scale Medical Image Pre-Training  (**<font color="#ff0000">Early Accept</font>**)
+
+  **Fenghe Tang**, Ronghao Xu, Qingsong Yao, Xueming Fu, Heqin Zhu, Zaiyi Liu, S. Kevin Zhou<sup>$\ast$</sup>.   [**[paper]**](https://arxiv.org/pdf/2408.05815.pdf)  [**[code]**](https://github.com/FengheTan9/HySparK) ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/HySparK)
 
 
-- ![citations](https://img.shields.io/badge/MIDL-2024-black)  Slide-SAM: Medical SAM Meets Sliding Window  (**<font color="#ff0000">Oral, Best Oral Paper Finalists</font>**)
+- ![citations](https://img.shields.io/badge/MIDL-2024-white)  Slide-SAM: Medical SAM Meets Sliding Window  (**<font color="#ff0000">Oral, Best Oral Paper Finalists</font>**)
 
-  Quan Quan*, **Fenghe Tang\***, Zikang Xu, Heqin Zhu, S. Kevin Zhou.   [**[paper]**](https://arxiv.org/pdf/2311.10121.pdf)  [**[code]**](https://github.com/Curli-quan/Slide-SAM)   ![GitHub Repo stars](https://img.shields.io/github/stars/Curli-quan/Slide-SAM)
-
-- ![citations](https://img.shields.io/badge/MICCAI-2025-black) SimCroP: Radiograph Representation Learning with Similarity-driven Cross-granularity Pre-training
-
-  Rongsheng Wang*, **Fenghe Tang\***, Qingsong Yao, Rui Yan, Xu Zhang, Zhen Huang, Haoran Lai, Zhiyang He, Xiaodong Tao, Zihang Jiang, S. Kevin Zhou. [**[paper]**](https://arxiv.org/pdf/2509.08311)  [**[code]**](https://github.com/ToniChopp/SimCroP)   ![GitHub Repo stars](https://img.shields.io/github/stars/ToniChopp/SimCroP)
+  Quan Quan<sup>$\dagger$</sup>, **Fenghe Tang**<sup>$\dagger$</sup>, Zikang Xu, Heqin Zhu, S. Kevin Zhou<sup>$\ast$</sup>.   [**[paper]**](https://arxiv.org/pdf/2311.10121.pdf)  [**[code]**](https://github.com/Curli-quan/Slide-SAM)   ![GitHub Repo stars](https://img.shields.io/github/stars/Curli-quan/Slide-SAM)
 
 ### Medical Image Segmentation 🫀🫁🧠
 
-- ![citations](https://img.shields.io/badge/arXiv-2025-black)  U-Bench: A Comprehensive Understanding of U-Net through 100-Variant Benchmarking
+- ![citations](https://img.shields.io/badge/arXiv-2025-white)  U-Bench: A Comprehensive Understanding of U-Net through 100-Variant Benchmarking
 
-  **Fenghe Tang**, Chengqi Dong, Wenxin Ma, Zikang Xu, Heqin Zhu, Zihang Jiang, Rongsheng Wang, Yuhao Wang, Chenxu Wu, Shaohua Kevin Zhou. [**[paper]**](https://arxiv.org/pdf/2510.07041)  [**[project]**](https://fenghetan9.github.io/ubench)  [**[data]**](https://huggingface.co/datasets/FengheTan9/U-Bench)  [**[weights]**](https://huggingface.co/FengheTan9/U-Bench)  [**[code]**](https://github.com/FengheTan9/U-Bench)   ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/U-Bench)
+  **Fenghe Tang**, Chengqi Dong, Wenxin Ma, Zikang Xu, Heqin Zhu, Zihang Jiang, Rongsheng Wang, Yuhao Wang, Chenxu Wu, Shaohua Kevin Zhou<sup>$\ast$</sup>. [**[paper]**](https://arxiv.org/pdf/2510.07041)  [**[project]**](https://fenghetan9.github.io/ubench)  [**[data]**](https://huggingface.co/datasets/FengheTan9/U-Bench)  [**[weights]**](https://huggingface.co/FengheTan9/U-Bench)  [**[code]**](https://github.com/FengheTan9/U-Bench)   ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/U-Bench)
 
-- ![citations](https://img.shields.io/badge/ACM MM-2025-black)   Mobile U-ViT: Revisiting large kernel and U-shaped ViT for efficient medical image segmentation
+- ![citations](https://img.shields.io/badge/ACM MM-2025-white)   Mobile U-ViT: Revisiting large kernel and U-shaped ViT for efficient medical image segmentation
 
-  **Fenghe Tang\***, Bingkun Nian\*,  Jianrui Ding, Wenxin Ma, Quan Quan, Chengqi Dong, Jie Yang, Wei Liu, S. Kevin Zhou. [**[paper]**](https://arxiv.org/pdf/2508.01064)  [**[code]**](https://github.com/FengheTan9/LLM4Seg)   ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/Mobile-U-ViT)
+  **Fenghe Tang**<sup>$\dagger$</sup>, Bingkun Nian<sup>$\dagger$</sup>,  Jianrui Ding, Wenxin Ma, Quan Quan, Chengqi Dong, Jie Yang, Wei Liu<sup>$\ast$</sup>, S. Kevin Zhou<sup>$\ast$</sup>. [**[paper]**](https://arxiv.org/pdf/2508.01064)  [**[code]**](https://github.com/FengheTan9/LLM4Seg)   ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/Mobile-U-ViT)
 
-- ![citations](https://img.shields.io/badge/MICCAI-2025-black)   Pre-Trained LLM is a Semantic-Aware and Generalizable Segmentation Booster
+- ![citations](https://img.shields.io/badge/MICCAI-2025-white)   Pre-Trained LLM is a Semantic-Aware and Generalizable Segmentation Booster
 
-  **Fenghe Tang\***, Wenxin Ma\*, Zhiyang He, Xiaodong Tao, Zihang Jiang, S. Kevin Zhou.    [**[paper]**](https://arxiv.org/pdf/2506.18034.pdf)  [**[code]**](https://github.com/FengheTan9/LLM4Seg)   ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/LLM4Seg)
+  **Fenghe Tang**<sup>$\dagger$</sup>, Wenxin Ma<sup>$\dagger$</sup>, Zhiyang He, Xiaodong Tao, Zihang Jiang<sup>$\ast$</sup>, S. Kevin Zhou<sup>$\ast$</sup>.    [**[paper]**](https://arxiv.org/pdf/2506.18034.pdf)  [**[code]**](https://github.com/FengheTan9/LLM4Seg)   ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/LLM4Seg)
 
-- ![citations](https://img.shields.io/badge/ISBI-2024-black)   CMUNeXt: An Efficient Medical Image Segmentation Network based on Large Kernel and Skip Fusion  (**<font color="#ff0000">Oral</font>**)
+- ![citations](https://img.shields.io/badge/IEEE--TIP-2025-white)   SRS: Siamese Reconstruction-Segmentation Network based on Dynamic-Parameter Convolution, *IEEE Transactions on Image Processing. (Impact factor=13.7)*
 
-  **Fenghe Tang**, ‪Jianrui Ding‬‬, Quan Quan, Lingtao Wang, Chunping Ning,‪ S. Kevin Zhou‬‬.    [**[paper]**](https://arxiv.org/pdf/2308.01239)  [**[code]**](https://github.com/FengheTan9/CMUNeXt)   ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/CMUNeXt)
+  Bingkun Nian<sup>$\dagger$</sup>, **Fenghe Tang**<sup>$\dagger$</sup>,  Jianrui Ding, Jie Yang, Zhonglong Zheng, S. Kevin Zhou<sup>$\ast$</sup>, Wei Liu<sup>$\ast$</sup>.  [**[paper]**](https://ieeexplore.ieee.org/abstract/document/11174084)  [**[code]**](https://github.com/fidshu/SRSNet)  ![GitHub Repo stars](https://img.shields.io/github/stars/fidshu/SRSNet)
 
-- ![citations](https://img.shields.io/badge/ISBI-2023-black)   CMU-Net: A Strong ConvMixer-based Medical Ultrasound Image Segmentation Network
+- ![citations](https://img.shields.io/badge/npj--DM-2025-white)   Fair ultrasound diagnosis via adversarial protected attribute aware perturbations on latent embeddings, *npj Digital Medicine. (Impact factor=13.7)*
 
-  **Fenghe Tang**, Lingtao Wang, Chunping Ning, Min Xian, Jianrui Ding.    [**[paper]**](https://arxiv.org/abs/2210.13012)  [**[code]**](https://github.com/FengheTan9/CMU-Net)  ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/CMU-Net)
-  
-- ![citations](https://img.shields.io/badge/IEEE--TIP-2025-black)   SRS: Siamese Reconstruction-Segmentation Network based on Dynamic-Parameter Convolution
+  Zikang Xu, **Fenghe Tang**, Quan Quan, Qingsong Yao, Qingpeng Kong, Jianrui Ding, Chunping Ning, S. Kevin Zhou<sup>$\ast$</sup>.  [**[paper]**](https://www.nature.com/articles/s41746-025-01641-y)  [**[code]**](https://github.com/XuZikang/APPLE) ![GitHub Repo stars](https://img.shields.io/github/stars/XuZikang/APPLE)
 
-  Bingkun Nian\*, **Fenghe Tang\***,  Jianrui Ding, Jie Yang, Zhonglong Zheng, S. Kevin Zhou, Wei Liu.  [**[paper]**](https://ieeexplore.ieee.org/abstract/document/11174084)  [**[code]**](https://github.com/fidshu/SRSNet)  ![GitHub Repo stars](https://img.shields.io/github/stars/fidshu/SRSNet)
-  
-- ![citations](https://img.shields.io/badge/npj Digital Medicine-2025-black)   Fair ultrasound diagnosis via adversarial protected attribute aware perturbations on latent embeddings
+- ![citations](https://img.shields.io/badge/ISBI-2024-white)   CMUNeXt: An Efficient Medical Image Segmentation Network based on Large Kernel and Skip Fusion  (**<font color="#ff0000">Oral</font>**)
 
-  Zikang Xu, **Fenghe Tang**, Quan Quan, Qingsong Yao, Qingpeng Kong, Jianrui Ding, Chunping Ning, S. Kevin Zhou.  [**[paper]**](https://www.nature.com/articles/s41746-025-01641-y)  [**[code]**](https://github.com/XuZikang/APPLE) ![GitHub Repo stars](https://img.shields.io/github/stars/XuZikang/APPLE)
+  **Fenghe Tang**, ‪Jianrui Ding‬‬, Quan Quan, Lingtao Wang, Chunping Ning,‪ S. Kevin Zhou<sup>$\ast$</sup>‬‬.    [**[paper]**](https://arxiv.org/pdf/2308.01239)  [**[code]**](https://github.com/FengheTan9/CMUNeXt)   ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/CMUNeXt)
+
+- ![citations](https://img.shields.io/badge/ISBI-2023-white)   CMU-Net: A Strong ConvMixer-based Medical Ultrasound Image Segmentation Network
+
+  **Fenghe Tang**, Lingtao Wang, Chunping Ning, Min Xian, Jianrui Ding<sup>$\ast$</sup>.    [**[paper]**](https://arxiv.org/abs/2210.13012)  [**[code]**](https://github.com/FengheTan9/CMU-Net)  ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/CMU-Net)
 
 ### AI4S 🧐
 
-- ![citations](https://img.shields.io/badge/Nature Communications-2025-black)  Deep generalizable prediction of RNA secondary structure via base pair motif energy
+- ![citations](https://img.shields.io/badge/Nature Comm-2025-black)  Deep generalizable prediction of RNA secondary structure via base pair motif energy, *Nature Communications (Impact factor=15.7)*
 
-  Heqin Zhu, **Fenghe Tang**, Quan Quan, Ke Chen, Peng Xiong, S. Kevin Zhou. [**[paper]**](https://www.nature.com/articles/s41467-025-60048-1)  [**[code]**](https://github.com/heqin-zhu/BPfold) ![GitHub Repo stars](https://img.shields.io/github/stars/heqin-zhu/BPfold)
+  Heqin Zhu, **Fenghe Tang**, Quan Quan, Ke Chen, Peng Xiong<sup>$\ast$</sup>, S. Kevin Zhou<sup>$\ast$</sup>. [**[paper]**](https://www.nature.com/articles/s41467-025-60048-1)  [**[code]**](https://github.com/heqin-zhu/BPfold) ![GitHub Repo stars](https://img.shields.io/github/stars/heqin-zhu/BPfold)
 
 **<font color="#9DC3E6">More publications are available at: </font>** [Google Scholar](https://scholar.google.com/citations?user=x1pODsMAAAAJ) 
 
@@ -143,7 +145,7 @@ redirect_from:
 
 - *IEEE Transactions on Pattern Analysis and Machine Intelligence* (*TPAMI*)
 - *Medical Image Analysis* (*MedIA*)
-- *The IEEE Journal of Biomedical and Health Informatics* (*JBHI*)
+- *IEEE Journal of Biomedical and Health Informatics* (*JBHI*)
 - *Expert Systems With Applications* (*ESWA*)
 - *Knowledge-based Systems* (*KBS*)
 - *Engineering Applications of Artificial Intelligence* (*EAAI*)
