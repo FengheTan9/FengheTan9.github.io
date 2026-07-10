@@ -17,12 +17,13 @@ redirect_from:
 
 # 😊About Me
 
-- I am a PhD student at the University of Science and Technology of China [(USTC)](https://en.ustc.edu.cn/) supervised by Prof. [Shaohua Kevin Zhou](https://www.linkedin.com/in/shaohua-kevin-zhou-231a094b/). I focus on *self-supervised learning*, *foundation model*, *medical image analysis*, *computer vision and pattern recognition*. I received my bachelor's and master's degrees from Harbin Institute of Technology [(HIT)](http://www.hit.edu.cn/) in 2021 and 2023, respectively. My master's tutor is Prof. [Jianrui Ding](https://scholar.google.com/citations?user=4TsvOR8AAAAJ&hl=zh-CN).  I have published 30+ papers at Top Conferences and Journals with [![citations](https://img.shields.io/badge/citations-800+-blue)](https://scholar.google.com/citations?user=x1pODsMAAAAJ)
+- I am a PhD student at the University of Science and Technology of China [(USTC)](https://en.ustc.edu.cn/) supervised by Prof. [Shaohua Kevin Zhou](https://www.linkedin.com/in/shaohua-kevin-zhou-231a094b/). I focus on *self-supervised learning*, *foundation model*, *medical image analysis*, *computer vision and pattern recognition*. I received my bachelor's and master's degrees from Harbin Institute of Technology [(HIT)](http://www.hit.edu.cn/) in 2021 and 2023, respectively. My master's tutor is Prof. [Jianrui Ding](https://scholar.google.com/citations?user=4TsvOR8AAAAJ&hl=zh-CN).  I have published 30+ papers at Top Conferences and Journals with [![citations](https://img.shields.io/badge/citations-900+-blue)](https://scholar.google.com/citations?user=x1pODsMAAAAJ)
 - Hobbies: 🎞️🏀🀄🃏🍔
 - **<font color="#cc0000">Seeking postdoctoral and research intern positions, feel free to contact me at </font> fhtan9@mail.ustc.edu.cn** 😎🥰🤗
 
 # 🔥 News
 
+- *2026.07*: &nbsp;Two papers accepted to *ACM MM*-26.
 - *2026.06*: &nbsp;One paper accepted to *ECCV*-26.
 - *2026.02*: &nbsp;One paper accepted to *CVPR*-26 Findings.
 - *2026.01*: &nbsp;One paper accepted to *ICLR*-26.
