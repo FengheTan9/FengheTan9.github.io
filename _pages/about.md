@@ -17,23 +17,25 @@ redirect_from:
 
 # 😊About Me
 
-- I am a PhD student at the University of Science and Technology of China [(USTC)](https://en.ustc.edu.cn/) supervised by Prof. [Shaohua Kevin Zhou](https://www.linkedin.com/in/shaohua-kevin-zhou-231a094b/). I focus on *self-supervised learning*, *foundation model*, *medical image analysis*, *computer vision and pattern recognition*. I received my bachelor's and master's degrees from Harbin Institute of Technology [(HIT)](http://www.hit.edu.cn/) in 2021 and 2023, respectively. My master's tutor is Prof. [Jianrui Ding](https://scholar.google.com/citations?user=4TsvOR8AAAAJ&hl=zh-CN).  I have published 30+ papers at Top Conferences and Journals with [![citations](https://img.shields.io/badge/citations-900+-blue)](https://scholar.google.com/citations?user=x1pODsMAAAAJ)
+- I am a PhD student at the University of Science and Technology of China [(USTC)](https://en.ustc.edu.cn/) supervised by Prof. [Shaohua Kevin Zhou](https://www.linkedin.com/in/shaohua-kevin-zhou-231a094b/). I focus on *self-supervised learning*, *VLMs*, *foundation model*, and *medical image analysis*. I received my bachelor's and master's degrees from Harbin Institute of Technology [(HIT)](http://www.hit.edu.cn/) in 2021 and 2023, respectively. My master's tutor is Prof. [Jianrui Ding](https://scholar.google.com/citations?user=4TsvOR8AAAAJ&hl=zh-CN).  I have published 30+ papers at Top Conferences and Journals with [![citations](https://img.shields.io/badge/citations-1000+-blue)](https://scholar.google.com/citations?user=x1pODsMAAAAJ)
 - Hobbies: 🎞️🏀🀄🃏🍔
-- **<font color="#cc0000">Seeking postdoctoral and research intern positions, feel free to contact me at </font> fhtan9@mail.ustc.edu.cn** 😎🥰🤗
+- **<font color="#cc0000">Seeking potential collaborators in related research areas ~</font>** 🥰🤗
+- **<font color="#cc0000">Seeking postdoctoral and research intern positions, feel free to contact me at </font> fhtan9@mail.ustc.edu.cn** 😎
 
 # 🔥 News
 
-- *2026.07*: &nbsp;Two papers accepted to *ACM MM*-26.
+- *2026.08*: &nbsp;One paper accepted to *EMNLP*-26 Findings.
+- *2026.07*: &nbsp;Two papers accepted to *ACM MM*-26 (<font color="#cc0000">**1 Oral**</font>).
 - *2026.06*: &nbsp;One paper accepted to *ECCV*-26.
 - *2026.02*: &nbsp;One paper accepted to *CVPR*-26 Findings.
 - *2026.01*: &nbsp;One paper accepted to *ICLR*-26.
-- *2026.01*: &nbsp;Two papers accepted to *ISBI*-26 (Both are**<font color="#ff0000"> Orals</font>**).
+- *2026.01*: &nbsp;Two papers accepted to *ISBI*-26 (Both are**<font color="#cc0000"> Orals</font>**).
 - *2025.11*: &nbsp;Start my research internship at Alibaba DAMO Academy.
 - *2025.11*: &nbsp;One paper accepted to *WACV*-26.
 - *2025.10*: &nbsp;We released [**U-Bench**](https://arxiv.org/pdf/2510.07041), banchmarking with 100 u-shape variants. 🤗🤗🤗
 - *2025.08*: &nbsp;One paper accepted to *IEEE Transactions on Image Processing*.
 - *2025.08*: &nbsp;One paper accepted to *Medical Image Analysis*.
-- *2025.07*: &nbsp;One paper accepted to *ECAI*-25 (**<font color="#ff0000">Orals</font>**).
+- *2025.07*: &nbsp;One paper accepted to *ECAI*-25 (**<font color="#cc0000">Oral</font>**).
 - *2025.07*: &nbsp;One paper accepted to *ACM MM*-25.
 - *2025.06*: &nbsp;Three papers accepted to *MICCAI*-25.
 - *2025.04*: &nbsp;One paper accepted to *npj Digital Medicine*.
@@ -42,9 +44,9 @@ redirect_from:
 - *2025.03*: &nbsp;One paper accepted to *MIDL*-25.
 - *2025.03*: &nbsp;One paper accepted to *CVPR*-25.
 - *2024.06*: &nbsp;One paper accepted to *MICCAI*-24.
-- *2024.05*: &nbsp;One paper accepted to *MICCAI*-24 (**<font color="#ff0000">Early Accept, Top 11 %</font>**).
-- *2024.04*: &nbsp;One paper accepted to *MIDL*-24 (**<font color="#ff0000">Oral, Best Oral Paper Finalists</font>**).
-- *2024.02*: &nbsp;One paper accepted to *ISBI*-24 (**<font color="#ff0000">Oral</font>**).
+- *2024.05*: &nbsp;One paper accepted to *MICCAI*-24 (**<font color="#cc0000">Early Accept, Top 11 %</font>**).
+- *2024.04*: &nbsp;One paper accepted to *MIDL*-24 (**<font color="#cc0000">Oral, Best Oral Paper Finalists</font>**).
+- *2024.02*: &nbsp;One paper accepted to *ISBI*-24 (**<font color="#cc0000">Oral</font>**).
 
 # 📝 Selected publications
 
@@ -154,6 +156,7 @@ Talks:
 
 <div style="max-width:300px; width:100%; margin-left: 0; text-align: left;">
   <script type="text/javascript" id="clustrmaps" 
-    src="//clustrmaps.com/map_v2.js?d=jaOYIPr0TvknXrE-gi6cz5uHkp6qI9mtwrj_B6wtt10&cl=ffffff&w=a">
+    src="https://clustrmaps.com/map_v2.js?d=jaOYIPr0TvknXrE-gi6cz5uHkp6qI9mtwrj_B6wtt10&cl=ffffff&w=a">
   </script>
 </div>
+
