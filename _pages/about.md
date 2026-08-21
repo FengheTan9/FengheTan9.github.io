@@ -25,7 +25,7 @@ redirect_from:
 # 🔥 News
 
 - *2026.08*: &nbsp;One paper accepted to *EMNLP*-26 Findings.
-- *2026.07*: &nbsp;Two papers accepted to *ACM MM*-26 (<font color="#cc0000">**1 Oral**</font>).
+- *2026.07*: &nbsp;Two papers accepted to *ACM MM*-26 (**<font color="#cc0000">1 Oral</font>**).
 - *2026.06*: &nbsp;One paper accepted to *ECCV*-26.
 - *2026.02*: &nbsp;One paper accepted to *CVPR*-26 Findings.
 - *2026.01*: &nbsp;One paper accepted to *ICLR*-26.
