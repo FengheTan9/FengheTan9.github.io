@@ -19,11 +19,14 @@ redirect_from:
 
 - I am a PhD student at the University of Science and Technology of China [(USTC)](https://en.ustc.edu.cn/) supervised by Prof. [Shaohua Kevin Zhou](https://www.linkedin.com/in/shaohua-kevin-zhou-231a094b/). I focus on *self-supervised learning*, *VLMs*, *foundation model*, and *medical image analysis*. I received my bachelor's and master's degrees from Harbin Institute of Technology [(HIT)](http://www.hit.edu.cn/) in 2021 and 2023, respectively. My master's tutor is Prof. [Jianrui Ding](https://scholar.google.com/citations?user=4TsvOR8AAAAJ&hl=zh-CN).  I have published 30+ papers at Top Conferences and Journals with [![citations](https://img.shields.io/badge/citations-1000+-blue)](https://scholar.google.com/citations?user=x1pODsMAAAAJ)
 - Hobbies: 🎞️🏀🀄🃏🍔
-- **<font color="#cc0000">Seeking potential collaborators in related research areas ~</font>** 🥰🤗
-- **<font color="#cc0000">Seeking postdoctoral and research intern positions, feel free to contact me at </font> fhtan9@mail.ustc.edu.cn** 😎
+- **<font color="#cc0000">On the 2026–2027 Job Market | MLLMs, Foundation Models, Healthcare AI</font>**
+- **<font color="#cc0000">Open to collaborations in related research areas~</font>** 🥰🤗
+- **<font color="#cc0000">Seeking postdoctoral opportunities — feel free to contact me at</font> fhtan9@mail.ustc.edu.cn fhtan9@mail.ustc.edu.cn** 😎
+
 
 # 🔥 News
 
+- *2026.09*: &nbsp;Two papers accepted to *NeurIPS*-26.
 - *2026.08*: &nbsp;One paper accepted to *EMNLP*-26 Findings.
 - *2026.07*: &nbsp;Two papers accepted to *ACM MM*-26 (**<font color="#cc0000">1 Oral</font>**).
 - *2026.06*: &nbsp;One paper accepted to *ECCV*-26.
@@ -54,6 +57,8 @@ redirect_from:
 
 ### Self-supervised Learning & Foundation Model 💪
 
+- ![citations](https://img.shields.io/badge/NeurIPS-2026-white) RadOmni: Advancing Foundation Model for Non-contrast CT with Omni Radiology Knowledge, **Fenghe Tang**, Weiwei Cao, Wenxin Ma, Kai Cao, Huanhuan Liu, Ling Zhang, S. Kevin Zhou<sup>$\ast$</sup>, Jianpeng Zhang<sup>$\ast$</sup>.
+
 - ![citations](https://img.shields.io/badge/Medical Image Analysis-2026-white) [Hi-End-MAE: Hierarchical encoder-driven masked autoencoders are stronger vision learners for medical image segmentation](https://www.sciencedirect.com/science/article/abs/pii/S1361841525003160), **Fenghe Tang**, Qingsong Yao, Wenxin Ma, Chenxu Wu, Zihang Jiang<sup>$\ast$</sup>, S. Kevin Zhou<sup>$\ast$</sup>. *Medical Image Analysis. (Impact factor=11.8)*  [**[code]**](https://github.com/FengheTan9/Hi-End-MAE) ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/Hi-End-MAE) 
 
 - ![citations](https://img.shields.io/badge/ICLR-2026-white)  [MedGMAE: Gaussian Masked Autoencoders for Medical Volumetric Representation Learning](https://openreview.net/pdf?id=Z2XIRLv535), Xueming Fu<sup>$\dagger$</sup>, **Fenghe Tang**<sup>$\dagger$</sup>, Rongsheng Wang, Yingtai Li, Lixia Han, Jian Lu, Zihang Jiang<sup>$\ast$</sup>, S Kevin Zhou<sup>$\ast$</sup>. [**[code]**](https://github.com/windrise/MedGMAE) ![GitHub Repo stars](https://img.shields.io/github/stars/windrise/MedGMAE)
@@ -69,9 +74,9 @@ redirect_from:
 
 ### Medical Image Segmentation 🫀🫁🧠
 
-- ![citations](https://img.shields.io/badge/ECCV-2026-white)  [Concept-to-Pixel: Prompt-Free Universal Medical Image Segmentation](https://arxiv.org/pdf/2603.17746), Haoyun Chen$\dagger$, **Fenghe Tang**<sup>$\dagger$</sup>, Wenxin Ma, S. Kevin Zhou<sup>$\ast$</sup>. [**[code]**](https://github.com/Yundi218/Concept-to-Pixel)  ![GitHub Repo stars](https://img.shields.io/github/stars/Yundi218/Concept-to-Pixel)
+- ![citations](https://img.shields.io/badge/NeurIPS-2026-white)  [U-Bench: A Comprehensive Understanding of U-Net through 100-Variant Benchmarking](https://arxiv.org/pdf/2510.07041), **Fenghe Tang**, Chengqi Dong, Wenxin Ma, Zikang Xu, Heqin Zhu, Zihang Jiang, Rongsheng Wang, Yuhao Wang, Chenxu Wu, YingTai Li, S. Kevin Zhou<sup>$\ast$</sup>.  [**[project]**](https://fenghetan9.github.io/ubench)  [**[data]**](https://huggingface.co/datasets/FengheTan9/U-Bench)  [**[weights]**](https://huggingface.co/FengheTan9/U-Bench)  [**[code]**](https://github.com/FengheTan9/U-Bench)   ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/U-Bench)
 
-- ![citations](https://img.shields.io/badge/arXiv-2025-white)  [U-Bench: A Comprehensive Understanding of U-Net through 100-Variant Benchmarking](https://arxiv.org/pdf/2510.07041), **Fenghe Tang**, Chengqi Dong, Wenxin Ma, Zikang Xu, Heqin Zhu, Zihang Jiang, Rongsheng Wang, Yuhao Wang, Chenxu Wu, S. Kevin Zhou<sup>$\ast$</sup>.  [**[project]**](https://fenghetan9.github.io/ubench)  [**[data]**](https://huggingface.co/datasets/FengheTan9/U-Bench)  [**[weights]**](https://huggingface.co/FengheTan9/U-Bench)  [**[code]**](https://github.com/FengheTan9/U-Bench)   ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/U-Bench)
+- ![citations](https://img.shields.io/badge/ECCV-2026-white)  [Concept-to-Pixel: Prompt-Free Universal Medical Image Segmentation](https://arxiv.org/pdf/2603.17746), Haoyun Chen$\dagger$, **Fenghe Tang**<sup>$\dagger$</sup>, Wenxin Ma, S. Kevin Zhou<sup>$\ast$</sup>. [**[code]**](https://github.com/Yundi218/Concept-to-Pixel)  ![GitHub Repo stars](https://img.shields.io/github/stars/Yundi218/Concept-to-Pixel)
 
 - ![citations](https://img.shields.io/badge/ACM MM-2025-white)  [Mobile U-ViT: Revisiting large kernel and U-shaped ViT for efficient medical image segmentation](https://arxiv.org/pdf/2508.01064), **Fenghe Tang**<sup>$\dagger$</sup>, Bingkun Nian<sup>$\dagger$</sup>,  Jianrui Ding, Wenxin Ma, Quan Quan, Chengqi Dong, Jie Yang, Wei Liu<sup>$\ast$</sup>, S. Kevin Zhou<sup>$\ast$</sup>. [**[code]**](https://github.com/FengheTan9/LLM4Seg)   ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/Mobile-U-ViT)
 
@@ -114,6 +119,8 @@ redirect_from:
 
 *Conference Reviewers:*
 
+- International Conference on Learning Representations (*ICLR*), 2026
+- Neural Information Processing Systems (*NeurIPS*), 2026
 - The IEEE/CVF Conference on Computer Vision and Pattern Recognition (*CVPR*), 2025-2026
 - Neural Information Processing Systems (*NeurIPS*), 2026
 - ACM International Conference on Multimedia (*ACM MM*), 2025-2026
