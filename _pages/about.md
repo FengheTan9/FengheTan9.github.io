@@ -57,7 +57,7 @@ redirect_from:
 
 ### Self-supervised Learning & Foundation Model 💪
 
-- ![citations](https://img.shields.io/badge/NeurIPS-2026-white) RadOmni: Advancing Foundation Model for Non-contrast CT with Omni Radiology Knowledge, **Fenghe Tang**, Weiwei Cao, Wenxin Ma, Kai Cao, Huanhuan Liu, Ling Zhang, S. Kevin Zhou<sup>$\ast$</sup>, Jianpeng Zhang<sup>$\ast$</sup>.
+- ![citations](https://img.shields.io/badge/NeurIPS-2026-white) [RadOmni: Advancing Foundation Model for Non-contrast CT with Omni Radiology Knowledge](https://fenghetan9.github.io), **Fenghe Tang**, Weiwei Cao, Wenxin Ma, Kai Cao, Huanhuan Liu, Ling Zhang, S. Kevin Zhou<sup>$\ast$</sup>, Jianpeng Zhang<sup>$\ast$</sup>.
 
 - ![citations](https://img.shields.io/badge/Medical Image Analysis-2026-white) [Hi-End-MAE: Hierarchical encoder-driven masked autoencoders are stronger vision learners for medical image segmentation](https://www.sciencedirect.com/science/article/abs/pii/S1361841525003160), **Fenghe Tang**, Qingsong Yao, Wenxin Ma, Chenxu Wu, Zihang Jiang<sup>$\ast$</sup>, S. Kevin Zhou<sup>$\ast$</sup>. *Medical Image Analysis. (Impact factor=11.8)*  [**[code]**](https://github.com/FengheTan9/Hi-End-MAE) ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/Hi-End-MAE) 
 
@@ -74,7 +74,7 @@ redirect_from:
 
 ### Medical Image Segmentation 🫀🫁🧠
 
-- ![citations](https://img.shields.io/badge/NeurIPS-2026-white)  [U-Bench: A Comprehensive Understanding of U-Net through 100-Variant Benchmarking](https://arxiv.org/pdf/2510.07041), **Fenghe Tang**, Chengqi Dong, Wenxin Ma, Zikang Xu, Heqin Zhu, Zihang Jiang, Rongsheng Wang, Yuhao Wang, Chenxu Wu, YingTai Li, S. Kevin Zhou<sup>$\ast$</sup>.  [**[project]**](https://fenghetan9.github.io/ubench)  [**[data]**](https://huggingface.co/datasets/FengheTan9/U-Bench)  [**[weights]**](https://huggingface.co/FengheTan9/U-Bench)  [**[code]**](https://github.com/FengheTan9/U-Bench)   ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/U-Bench)
+- ![citations](https://img.shields.io/badge/NeurIPS-2026-white)  [U-Bench: A Comprehensive Understanding of U-Net through 100-Variant Benchmarking](https://arxiv.org/pdf/2510.07041), **Fenghe Tang**, Chengqi Dong, Wenxin Ma, Zikang Xu, Heqin Zhu, Zihang Jiang, Rongsheng Wang, Yuhao Wang, Chenxu Wu, Yingtai Li, S. Kevin Zhou<sup>$\ast$</sup>.  [**[project]**](https://fenghetan9.github.io/ubench)  [**[data]**](https://huggingface.co/datasets/FengheTan9/U-Bench)  [**[weights]**](https://huggingface.co/FengheTan9/U-Bench)  [**[code]**](https://github.com/FengheTan9/U-Bench)   ![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/U-Bench)
 
 - ![citations](https://img.shields.io/badge/ECCV-2026-white)  [Concept-to-Pixel: Prompt-Free Universal Medical Image Segmentation](https://arxiv.org/pdf/2603.17746), Haoyun Chen$\dagger$, **Fenghe Tang**<sup>$\dagger$</sup>, Wenxin Ma, S. Kevin Zhou<sup>$\ast$</sup>. [**[code]**](https://github.com/Yundi218/Concept-to-Pixel)  ![GitHub Repo stars](https://img.shields.io/github/stars/Yundi218/Concept-to-Pixel)
 
