@@ -21,7 +21,7 @@ redirect_from:
 - Hobbies: 🎞️🏀🀄🃏🍔
 - **<font color="#cc0000">On the 2026–2027 Job Market | MLLMs, Foundation Models, Healthcare AI</font>**
 - **<font color="#cc0000">Open to collaborations in related research areas~</font>** 🥰🤗
-- **<font color="#cc0000">Seeking postdoctoral opportunities — feel free to contact me at</font> fhtan9@mail.ustc.edu.cn fhtan9@mail.ustc.edu.cn** 😎
+- **<font color="#cc0000">Seeking postdoctoral opportunities — feel free to contact me at fhtan9@mail.ustc.edu.cn</font>** 😎
 
 
 # 🔥 News
